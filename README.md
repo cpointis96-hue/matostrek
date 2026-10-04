@@ -44,3 +44,7 @@ Les scripts de synchronisation peuvent créer, modifier ou supprimer des lignes 
 Les scripts Zpacks parcourent un dossier qui mélange tentes et sacs de couchage ; leurs hypothèses sur le format d'entrée demandent une revue avant tout import. `import_tent_images.sh` est conservé comme code historique, sans les images ni autorisation de redistribution des photos fabricant.
 
 Les contrôles réellement effectués pour cette copie sont consignés dans [VERIFICATION.md](VERIFICATION.md).
+
+## Dépôt et téléchargement
+
+La copie publique est préparée localement. Sa publication GitHub attend la levée de la limite temporaire de création de dépôts. Un lien vers le dépôt et son ZIP de sources sera ajouté après vérification de leur disponibilité ; aucun binaire ni design Claude original complet n’est inclus.
