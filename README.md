@@ -1,6 +1,16 @@
 # MatosTrek
 
-Archive publique d'un prototype de catalogue de matériel de randonnée ultralégère. Le dossier contient une interface React autonome, 42 fiches produit JSON historiques, un schéma SQL de référence et des scripts d'import anciens. Il ne contient ni service NocoDB opérationnel ni comparateur complet.
+## En bref
+
+**Ce que c’est :** une archive de prototype de catalogue de matériel de randonnée ultralégère.
+
+**À quoi il sert :** explorer une interface de catalogue et préparer une base de données de fiches produit pour un futur comparateur.
+
+**Ce qui a été réalisé :** interface React autonome, 42 fiches JSON historiques, schéma SQL de référence et scripts d’import conservés pour reprise.
+
+**Technologies :** React, Node.js, SQLite/SQL, JSON et scripts d’import NocoDB.
+
+Le service NocoDB et le comparateur complet ne sont pas livrés. Les designs Claude Design originaux ont été perdus ; la notice le distingue du prototype alternatif conservé.
 
 ## Provenance et statut du design
 
