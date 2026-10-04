@@ -1,0 +1,194 @@
+{
+  "extraction_meta": {
+    "source_url": "https://www.bigagnes.fr/catalogue/p/ttwp226.html",
+    "extracted_at": "2026-05-16",
+    "extractor": "claude-code"
+  },
+
+  "brand": {
+    "name": "Big Agnes",
+    "slug": "big-agnes",
+    "country": null,
+    "website_url": "https://www.bigagnes.fr"
+  },
+
+  "tent": {
+    "name": "Tiger Wall 2 Platinum",
+    "slug": "tiger-wall-2-platinum",
+    "tagline": null,
+    "description": "Dotée de la version la plus légère à ce jour de notre tissu révolutionnaire HyperBead™, la Tiger Wall Platinum figure parmi les tentes deux portes les plus légères du marché. Avec deux entrées, deux absides et toutes les fonctionnalités nécessaires pour un confort absolu en pleine nature, sans le poids ni l'encombrement des options superflues, la Tiger Wall Platinum est conçue pour l'efficacité. Son architecture à arceau unique simplifie le montage tout en offrant un grand volume intérieur tandis que les extrémités des pieds structurée et haubanée offrent plus d'espace entre vos pieds et la paroi de la tente. Elle est idéale pour les randonnées longues où chaque gramme compte.",
+    "key_features": "- Tissu HyperBead™ 7D : version la plus légère à ce jour, 6% plus léger, 25% plus imperméable, 50% plus résistant vs nylon traditionnel, sans réimperméabilisation\n- Architecture arceau unique : simplification du montage + grand volume intérieur\n- Extrémité pieds structurée et haubanée : plus d'espace entre les pieds et la paroi\n- Compatible Fast Fly (double toit + footprint + arceaux + sardines)\n- Ventilation \"Low Vent\"\n- Rangements intérieurs : boucles, poche plafond, poches latérales\n- Porte Quick Stash\n- Zips double curseurs\n- Système TipLok™ Tent Buckle\n- Clips rapides\n- Code couleur arceau/double-toit\n- Haubans réfléchissants prédécoupés\n- Conception sans PFAS ajoutés intentionnellement\n- DAC Green Anodizing : anodisation sans acide nitrique ni phosphorique\n- Coutures étanches polyuréthane sans solvant (sans PVC ni COV)",
+    "manufacturer_claims": "Tissu HyperBead™ 7D : version la plus légère jamais produite par Big Agnes pour ce type de tente, figure parmi les tentes deux portes les plus légères du marché. Extrémité des pieds structurée et haubanée pour plus d'espace. 6% plus léger, 25% plus imperméable, 50% plus résistant que le nylon traditionnel.",
+    "ideal_for": "Randonneurs experts et trekkers chevronnés. Randonnées longues où chaque gramme compte. Recherche de performance maximale avec volume intérieur confortable.",
+    "comparison_notes": "Positionnée au-dessus de la Tiger Wall UL2 (550€, tissu 15D) en termes de légèreté. Tissu 7D vs 15D pour la version UL. Comparables cités : Copper Spur UL2 (600€), Tiger Wall UL2 (550€), Copper Spur UL3 (700€).",
+    "care_instructions": "Stockage : ranger parfaitement sèche et exempte de débris. Varier la manière de plier à chaque fois pour éviter les plis permanents. Conserver dans un endroit frais et sec. Éviter les zones chaudes (coffre de voiture, grenier). Ne jamais ranger humide (risque de moisissures, odeurs, fuites et délaminage).\n\nNettoyage léger : éponge + eau tiède (jamais chaude).\n\nNettoyage en profondeur : bassine/baignoire, immerger, agiter doucement, vider, répéter jusqu'à eau claire, appliquer nettoyant doux (Nikwax Tech Wash recommandé) à l'éponge, rincer soigneusement, sécher à l'air libre, vérifier sécheresse complète avant rangement.\n\nÀ éviter : machine à laver, nettoyage à sec, eau chaude, javel, lessives, liquide vaisselle, exposition prolongée au soleil.\n\nÉtanchéité coutures : pré-étanchéifiées en usine (ruban thermocollé). Inutile d'appliquer un joint liquide sauf besoin spécifique.\n\nFermetures éclairs : garder propres sans sable. Brosse douce ou lubrifiant nettoyant type Gear Aid recommandé.",
+    "repair_notes": "Manchon de réparation rapide pour arceau inclus dans la boîte. Guides disponibles sur le site : 'Comment laver sa tente' et 'Comment réparer sa tente'. Garantie 2 ans, SAV France direct, traitement express sans intermédiaire.",
+    "faq_important": "Q : Quelle est l'imperméabilité ? R : 1500mm sur double toit et sol. Résiste à une colonne d'eau de 1500mm pendant plus d'une minute avant qu'une seule goutte ne traverse. Correspond à l'intensité d'une pluie soutenue.\n\nQ : Pourquoi un footprint est-il recommandé ? R : Protège le sol, le garde propre et sec, préserve le tissu des frottements, prolonge la durée de vie, et permet la configuration Fast Fly avec tapis de sol et double-toit.\n\nQ : Combien de matelas rentrent ? R : Deux matelas jusqu'à 53cm de large.\n\nQ : Quelle est la durée de vie ? R : Dépend de l'utilisation. Principal ennemi : rayonnement UV. Bien entretenue, conditions normales : de nombreuses années.\n\nQ : Quelle est la garantie ? R : 2 ans contre défauts de fabrication ou casses anormales.",
+    "compatible_accessories": "FOOTPRINT Tiger Wall 2 Platinum (vendu séparément, inclus dans pack à -25%). Pack Tiger Wall 2 Platinum + Footprint (860€, économie 20€). Capacité intérieure : 2 matelas jusqu'à 53cm de large.",
+    "warranty_notes": "Garantie 2 ans contre défauts de fabrication ou casses anormales. SAV France direct, traitement express sans intermédiaire.",
+    "capacity": 2,
+    "season_rating": "3-season",
+    "structure_type": "semi-freestanding",
+    "wall_type": "double",
+    "poles_required": "dedicated",
+    "poles_included": true,
+    "geometry_name": null,
+    "geometry_patented": null,
+    "door_count": 2,
+    "vestibule_count": 2,
+    "vent_count": null,
+    "interior_pockets": null,
+    "guy_lines_max": null,
+    "stake_points_max": null,
+    "floor_length_cm": null,
+    "floor_width_cm": null,
+    "floor_width_head_cm": null,
+    "floor_width_foot_cm": null,
+    "floor_area_sqm": 2.6,
+    "floor_bathtub_height_cm": null,
+    "floor_height_adjustable": null,
+    "peak_height_inner_cm": null,
+    "peak_height_fly_cm": null,
+    "vestibule_area_sqm": 0.7,
+    "vestibule_depth_cm": null,
+    "fly_length_cm": null,
+    "fly_width_cm": null,
+    "fly_fabric": "Nylon ripstop 7D HyperBead™",
+    "fly_fabric_type": "nylon",
+    "fly_waterproofness_mm": 1500,
+    "fly_pfas_free": true,
+    "floor_fabric": "Nylon ripstop 7D HyperBead™",
+    "floor_fabric_type": "nylon",
+    "floor_waterproofness_mm": 1500,
+    "inner_fabric": "Mesh polyester + nylon ripstop respirant 7D",
+    "inner_mesh": true,
+    "seam_construction": "hot-bonded",
+    "seam_waterproof": true,
+    "zipper_fly": "double curseurs",
+    "zipper_inner": "double curseurs",
+    "magnetic_toggles": null,
+    "pole_diameter_mm": null,
+    "pole_sleeve_material": null,
+    "pole_splint_included": true,
+    "pole_jack_included": null,
+    "tie_out_count_perimeter": null,
+    "tie_out_count_midpanel": null,
+    "tie_out_count_apex": null,
+    "ladder_locks": null,
+    "guyline_brand": null,
+    "fly_first_pitch": null,
+    "inner_first_pitch": null,
+    "freestanding_no_stakes": null,
+    "protected_doorways": null,
+    "full_coverage_fly": null,
+    "tensioned_floor": null,
+    "groundsheet_required": false,
+    "groundsheet_recommended": true,
+    "trekking_pole_support": null,
+    "vestibule_pole_support": null,
+    "reflective_elements": true,
+    "manufacture_country": null,
+    "stakes_included": 9,
+    "stakes_type": "Dirt Dagger UL aluminium ultraléger",
+    "stuff_sack_included": true,
+    "repair_kit_included": true,
+    "carry_bag_included": true,
+    "price_usd": null,
+    "price_eur": 800,
+    "product_url": "https://www.bigagnes.fr/catalogue/p/ttwp226.html",
+    "warranty_years": 2,
+    "warranty_notes": "Garantie 2 ans contre défauts de fabrication ou casses anormales. SAV France direct, traitement express sans intermédiaire."
+  },
+
+  "variants": [
+    {
+      "variant_name": "Tiger Wall 2 Platinum - 2 places",
+      "variant_slug": "tiger-wall-2-platinum-2p",
+      "pole_option": null,
+      "floor_option": null,
+      "inner_option": null,
+      "color": "Mercury/Evening Primrose",
+      "weight_tent_g": 978,
+      "weight_fly_g": null,
+      "weight_inner_g": null,
+      "weight_poles_g": null,
+      "weight_stakes_g": null,
+      "weight_stuff_sack_g": null,
+      "weight_typical_g": 853,
+      "weight_typical_notes": "Poids minimum : chambre + double toit + arceaux (sans sardines ni sac de transport)",
+      "packed_length_cm": 46,
+      "packed_diameter_cm": 11,
+      "price_usd": null,
+      "price_eur": 800,
+      "in_stock": null
+    }
+  ],
+
+  "specs_extra": [
+    {
+      "key": "weight_fast_fly_g",
+      "value": "544",
+      "unit": "g",
+      "label": "Poids Fast Fly",
+      "category": "poids"
+    },
+    {
+      "key": "hyperbead_claims",
+      "value": "Version 7D la plus légère à ce jour. 6% plus léger, 25% plus imperméable, 50% plus résistant que le nylon traditionnel. Ne nécessite pas de réimperméabilisation.",
+      "unit": null,
+      "label": "Technologie HyperBead™ 7D",
+      "category": "materiaux"
+    },
+    {
+      "key": "dac_green_anodizing",
+      "value": "Procédé d'anodisation sans acide nitrique ni acide phosphorique.",
+      "unit": null,
+      "label": "DAC Green Anodizing",
+      "category": "materiaux"
+    },
+    {
+      "key": "matelas_largeur_max_cm",
+      "value": "53",
+      "unit": "cm",
+      "label": "Largeur max matelas",
+      "category": "dimensions"
+    },
+    {
+      "key": "vestibule_total_sqm",
+      "value": "1.4",
+      "unit": "m²",
+      "label": "Surface vestibule totale (2 × 0.7 m²)",
+      "category": "dimensions"
+    },
+    {
+      "key": "foot_end_design",
+      "value": "Extrémité des pieds structurée et haubanée : plus d'espace entre les pieds et la paroi de la tente.",
+      "unit": null,
+      "label": "Design extrémité pieds",
+      "category": "design"
+    }
+  ],
+
+  "extraction_notes": {
+    "fields_not_found": [
+      "floor_length_cm", "floor_width_cm", "floor_width_head_cm", "floor_width_foot_cm",
+      "floor_bathtub_height_cm", "peak_height_inner_cm", "peak_height_fly_cm",
+      "vestibule_depth_cm", "fly_length_cm", "fly_width_cm",
+      "interior_pockets", "guy_lines_max", "stake_points_max",
+      "tie_out_count_perimeter", "tie_out_count_midpanel", "tie_out_count_apex",
+      "ladder_locks", "guyline_brand", "pole_sleeve_material", "pole_diameter_mm",
+      "fly_first_pitch", "inner_first_pitch", "freestanding_no_stakes",
+      "protected_doorways", "full_coverage_fly", "tensioned_floor", "floor_height_adjustable",
+      "magnetic_toggles", "geometry_name", "geometry_patented",
+      "vestibule_pole_support", "trekking_pole_support",
+      "manufacture_country", "price_usd",
+      "weight_fly_g", "weight_inner_g", "weight_poles_g", "weight_stakes_g", "weight_stuff_sack_g"
+    ],
+    "ambiguous_fields": [
+      "Dimensions intérieures (longueur/largeur/hauteur) : présentes uniquement sous forme d'image/schéma sur la page, valeurs numériques non extractibles depuis le texte.",
+      "interior_pockets : rangements mentionnés (boucles, poche plafond, poches latérales) mais sans compte exact."
+    ],
+    "new_columns_to_create": [],
+    "comments": "URL ttwp226.html sans label utilisateur. Page correspond à Tiger Wall 2 Platinum (800€). Tissu 7D (vs 15D sur Tiger Wall UL2) non couvert par les valeurs enum actuelles mais reste 'nylon' comme fly_fabric_type."
+  }
+}

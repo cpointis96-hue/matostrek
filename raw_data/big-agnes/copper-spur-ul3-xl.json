@@ -1,0 +1,92 @@
+{
+  "source_url": "https://www.bigagnes.fr/catalogue/p/tcsul3xllnm25.html",
+  "scraped_at": "2026-05-16",
+  "brand": "Big Agnes",
+  "brand_slug": "big-agnes",
+  "name": "Copper Spur UL3 XL",
+  "slug": "copper-spur-ul3-xl",
+  "sku": "tcsul3xllnm25",
+  "price_eur": 750,
+  "capacity": 3,
+  "season_rating": "3-season",
+  "structure_type": "freestanding",
+  "wall_type": "double",
+  "poles_required": "dedicated",
+  "tagline": "Version XL de la référence incontestée du bivouac technique — +26cm longueur, +15cm largeur, +5cm hauteur",
+  "description": "Version XL du Copper Spur primé : 26cm supplémentaires en longueur, 15cm en largeur, 5cm en hauteur. Architecture à volume élevé maximisant l'espace intérieur pour le confort sans compromis sur la légèreté.",
+  "key_features": [
+    "Compatible Fast Fly (double toit + footprint + arceaux)",
+    "Tissu HyperBead™ nylon solution-dyed : 6% plus léger, 25% plus imperméable, 50% plus résistant",
+    "DAC Green Anodizing (sans acide nitrique/phosphorique)",
+    "Solution Dyed Fabrics : eau -50%, énergie -80%, produits chimiques -80%",
+    "Système TipLok™ Tent Buckle",
+    "Portes auvents style vestibule double curseur",
+    "Évent d'aération réglable",
+    "Porte Quick Stash",
+    "Zips double curseurs",
+    "Sac EZ Pack compression",
+    "Haubans réfléchissants",
+    "Sans PFAS ajoutés intentionnellement",
+    "Coutures thermocollées PU sans solvant",
+    "Conçu par Jake Lah",
+    "3 matelas jusqu'à 61cm de large"
+  ],
+  "manufacturer_claims": "HyperBead™ : 6% plus léger, 25% plus imperméable, 50% plus solide. Solution Dyed Fabrics : eau -50%, énergie -80%, CO2 réduit. Architecture Jake Lah. XL vs standard : +26cm longueur, +15cm largeur, +5cm hauteur.",
+  "ideal_for": "Randonneurs priorité confort sans compromettre la légèreté. Experts backcountry. Bivouac technique 3 saisons groupe.",
+  "care_instructions": "Stockage : sec, endroit frais, varier le pliage, jamais humide. Nettoyage : éponge eau tiède ou bassine Nikwax Tech Wash. Éviter : machine, eau chaude, javel, UV prolongés. Fermetures : lubrifier Gear Aid.",
+  "repair_notes": "Manchon de réparation rapide arceau inclus. SAV France.",
+  "faq_important": "Q: Imperméabilité ? 1500mm résiste pluie soutenue. Q: Footprint ? Recommandé (non obligatoire), permet Fast Fly. Q: Combien de matelas ? 3 jusqu'à 61cm.",
+  "compatible_accessories": "FOOTPRINT Copper Spur UL3 XL (100€ vendu séparément). Pack tente+footprint.",
+  "warranty_years": 2,
+  "warranty_notes": "Garantie 2 ans défauts fabrication. SAV France.",
+  "weight": {
+    "total_g": 1830,
+    "minimum_g": 1630,
+    "fast_fly_g": 1300
+  },
+  "packed_size": {
+    "length_cm": 56,
+    "diameter_cm": 17
+  },
+  "dimensions": {
+    "floor_area_sqm": 4.1,
+    "vestibule_area_sqm": 0.8,
+    "vestibule_count": 2,
+    "door_count": 2
+  },
+  "fabrics": {
+    "fly": {
+      "material": "HyperBead™ nylon ripstop 15D 20D solution-dyed",
+      "type": "nylon",
+      "waterproofness_mm": 1500,
+      "pfas_free": true
+    },
+    "floor": {
+      "material": "HyperBead™ nylon ripstop 15D 20D solution-dyed",
+      "type": "nylon",
+      "waterproofness_mm": 1500,
+      "pfas_free": true
+    },
+    "inner": "Nylon 15D respirant ripstop 20D + mesh polyester 15D",
+    "seams": "Polyuréthane sans solvant, sans PVC, sans COV"
+  },
+  "poles": {
+    "type": "dedicated",
+    "material": "Aluminium DAC NFL 9.3mm",
+    "included": true
+  },
+  "stakes": {
+    "count": 8,
+    "type": "Dirt Dagger aluminium ultraléger",
+    "included": true
+  },
+  "colors": ["Lichen Green/Mercury", "Green Mercury"],
+  "included_items": [
+    "Sac de transport",
+    "8 sardines Dirt Dagger aluminium",
+    "Haubans réfléchissants",
+    "Manchon de réparation arceau"
+  ],
+  "return_policy_days": 21,
+  "shipping_free_above_eur": 100
+}

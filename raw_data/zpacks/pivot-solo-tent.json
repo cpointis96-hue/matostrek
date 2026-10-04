@@ -1,0 +1,366 @@
+{
+  "extraction_meta": {
+    "source_url": "https://zpacks.com/products/pivot-solo-tent",
+    "extracted_at": "2026-05-17",
+    "extractor": "codex",
+    "source_type": "official_website"
+  },
+  "brand": {
+    "name": "Zpacks",
+    "slug": "zpacks",
+    "country": "USA",
+    "website_url": "https://zpacks.com"
+  },
+  "tent": {
+    "name": "Pivot Solo Tent",
+    "slug": "pivot-solo-tent",
+    "tagline": "Abri solo ultraléger Zpacks pensé pour maximiser l’espace utile sans compromis sur les fonctionnalités.",
+    "description": "La Pivot Solo Tent est une tente une place ultralégère destinée aux randonneurs qui veulent conserver un vrai volume intérieur, de la durabilité et des fonctionnalités avancées. Son architecture décale un second bâton de trekking vers le coin arrière droit afin d’augmenter fortement l’espace pour la tête et les pieds. L’intérieur accepte un matelas long et large avec encore de la place pour le matériel, et convient à un utilisateur jusqu’à environ 1,95 m.",
+    "key_features": "- Construction en Dyneema® Composite Fabric imperméable, durable et sans PFAS\n- Deux options de construction : Lite avec canopy .55 oz/sqyd DCF et sol .75 oz/sqyd DCF ; Standard avec canopy .75 oz/sqyd DCF et sol 1 oz/sqyd DCF\n- Montage avec deux bâtons de trekking ou mâts de tente de 132 cm et 81 cm\n- 6 à 8 sardines requises, non incluses\n- Portes anti-tempête avec entrée zippée imperméable et aérations au pic\n- Grande et petite porte pouvant s’ouvrir complètement et se fixer par toggles magnétiques\n- Vestibule pour chaussures et sac, ou possibilité de ranger le sac debout dans l’habitacle\n- Moustiquaire intégrale ultralégère .67 oz/sqyd contre les insectes et ventilation périphérique\n- Entrée large en L avec porte écran drapée pour mieux bloquer les moustiques\n- Sol maintenu en tension pour permettre une fermeture éclair à une main\n- Sol baignoire haut et décalé du périmètre pour limiter projections d’eau et condensation\n- En pluie calme, la porte peut rester ouverte pour ventiler sans faire entrer l’eau dans l’espace de vie\n- Petit encombrement au sol pour se glisser dans des emplacements restreints\n- Régleurs LineLoc V et haubans jaunes Z-Line visibles jour et nuit\n- Sol assez durable pour se passer de groundsheet séparé, Flat Groundsheet optionnel par précaution\n- Poche mesh intégrée pour petits objets et boucles aux pics pour lampe, corde à linge ou Gear Nest\n- Zips #3 YKK de haute qualité, curseurs remplaçables sur le terrain, ruban DCF et curseurs de rechange inclus",
+    "manufacturer_claims": "Zpacks présente la Pivot Solo comme un abri solo ultraléger sans compromis sur l’espace, la durabilité ou les fonctionnalités. Le Dyneema® est annoncé comme biosourcé, à haut rapport résistance/poids, sans PFC, PFAS, DWR ni retardateurs de flamme, intrinsèquement imperméable, sans étirement, avec coutures rubanées et durée de vie attendue d’au moins une thru-hike complète de 2500+ miles ou de nombreuses années d’usage occasionnel avec soin.",
+    "ideal_for": "Randonneurs ultralégers solo cherchant un abri non autoportant spacieux, protecteur face aux intempéries et aux insectes, avec plus de place pour la tête et les pieds qu’une tente solo minimaliste classique.",
+    "comparison_notes": "La variante Lite privilégie le poids minimal avec des grammages DCF plus faibles. La variante Standard ajoute davantage d’opacité et de durabilité grâce à une canopy et un sol plus lourds.",
+    "care_instructions": null,
+    "repair_notes": "Tous les curseurs de zip sont remplaçables sur le terrain. Une bande de réparation DCF de 54 pouces et deux curseurs de rechange sont inclus. Aucun seam sealing n’est nécessaire grâce aux coutures rubanées.",
+    "faq_important": "Q : De quels bâtons a-t-on besoin ? R : Un bâton de 132 cm et un autre de 81 cm, ou des mâts de tente équivalents.\n\nQ : Combien de sardines faut-il ? R : 6 à 8, non incluses.\n\nQ : Faut-il un groundsheet séparé ? R : Non, il n’est pas requis ; un Flat Groundsheet reste optionnel par précaution.\n\nQ : Les coutures doivent-elles être étanchées ? R : Non, elles sont rubanées.\n\nQ : Quelle taille d’utilisateur est visée ? R : Jusqu’à environ 1,95 m.",
+    "compatible_accessories": "Deux bâtons de trekking ou mâts de 132 cm et 81 cm, 6 à 8 sardines vendues séparément, Flat Groundsheet optionnel, Gear Nest compatible avec les boucles de pic, sac DCF medium, ruban de réparation DCF et curseurs de zip de rechange inclus.",
+    "warranty_notes": "Garantie limitée de deux ans contre les défauts de matériaux ou de fabrication.",
+    "capacity": 1,
+    "season_rating": null,
+    "structure_type": "non-freestanding",
+    "wall_type": "single",
+    "poles_required": "trekking",
+    "poles_included": false,
+    "geometry_name": null,
+    "geometry_patented": null,
+    "door_count": 2,
+    "vestibule_count": 1,
+    "vent_count": 1,
+    "interior_pockets": 1,
+    "guy_lines_max": null,
+    "stake_points_max": 8,
+    "floor_length_cm": 214,
+    "floor_width_cm": null,
+    "floor_width_head_cm": null,
+    "floor_width_foot_cm": null,
+    "floor_area_sqm": 1.95,
+    "floor_bathtub_height_cm": 15.25,
+    "floor_height_adjustable": null,
+    "peak_height_inner_cm": 132,
+    "peak_height_fly_cm": 132,
+    "vestibule_area_sqm": null,
+    "vestibule_depth_cm": 61,
+    "fly_length_cm": 249,
+    "fly_width_cm": 185.5,
+    "fly_fabric": "Dyneema® Composite Fabric .55 oz/sqyd ou .75 oz/sqyd selon variante",
+    "fly_fabric_type": "DCF",
+    "fly_waterproofness_mm": null,
+    "fly_pfas_free": true,
+    "floor_fabric": "Dyneema® Composite Fabric .75 oz/sqyd ou 1 oz/sqyd selon variante",
+    "floor_fabric_type": "DCF",
+    "floor_waterproofness_mm": null,
+    "inner_fabric": "Moustiquaire ultralégère .67 oz/sqyd",
+    "inner_mesh": true,
+    "seam_construction": "taped",
+    "seam_waterproof": true,
+    "zipper_fly": "#3 YKK zippers",
+    "zipper_inner": null,
+    "magnetic_toggles": true,
+    "pole_diameter_mm": null,
+    "pole_sleeve_material": null,
+    "pole_splint_included": false,
+    "pole_jack_included": false,
+    "tie_out_count_perimeter": null,
+    "tie_out_count_midpanel": null,
+    "tie_out_count_apex": null,
+    "ladder_locks": null,
+    "guyline_brand": "Z-Line Guylines",
+    "fly_first_pitch": null,
+    "inner_first_pitch": null,
+    "freestanding_no_stakes": false,
+    "protected_doorways": true,
+    "full_coverage_fly": true,
+    "tensioned_floor": true,
+    "groundsheet_required": false,
+    "groundsheet_recommended": true,
+    "trekking_pole_support": true,
+    "vestibule_pole_support": false,
+    "reflective_elements": null,
+    "manufacture_country": "USA",
+    "stakes_included": 0,
+    "stakes_type": null,
+    "stuff_sack_included": true,
+    "repair_kit_included": true,
+    "carry_bag_included": false,
+    "price_usd": 649,
+    "price_eur": null,
+    "product_url": "https://zpacks.com/products/pivot-solo-tent",
+    "warranty_years": 2
+  },
+  "variants": [
+    {
+      "variant_name": "Blue w/ Lite Floor",
+      "variant_slug": "pivot-solo-tent-blue-lite-floor",
+      "pole_option": "52-inch trekking pole or tent pole + 32-inch trekking pole or tent pole",
+      "floor_option": ".75 oz/sqyd DCF floor",
+      "inner_option": ".67 oz/sqyd ultralight insect netting",
+      "color": "Blue",
+      "weight_tent_g": 379,
+      "weight_fly_g": null,
+      "weight_inner_g": null,
+      "weight_poles_g": null,
+      "weight_stakes_g": null,
+      "weight_stuff_sack_g": 8.5,
+      "weight_typical_g": 379,
+      "weight_typical_notes": "Displayed product weight including guy lines, sewn-in Linelocs, and taped seams.",
+      "packed_length_cm": null,
+      "packed_diameter_cm": null,
+      "price_usd": 649,
+      "price_eur": null,
+      "in_stock": null
+    },
+    {
+      "variant_name": "Olive Drab w/ Lite Floor",
+      "variant_slug": "pivot-solo-tent-olive-drab-lite-floor",
+      "pole_option": "52-inch trekking pole or tent pole + 32-inch trekking pole or tent pole",
+      "floor_option": ".75 oz/sqyd DCF floor",
+      "inner_option": ".67 oz/sqyd ultralight insect netting",
+      "color": "Olive Drab",
+      "weight_tent_g": 379,
+      "weight_fly_g": null,
+      "weight_inner_g": null,
+      "weight_poles_g": null,
+      "weight_stakes_g": null,
+      "weight_stuff_sack_g": 8.5,
+      "weight_typical_g": 379,
+      "weight_typical_notes": "Displayed product weight including guy lines, sewn-in Linelocs, and taped seams.",
+      "packed_length_cm": null,
+      "packed_diameter_cm": null,
+      "price_usd": 649,
+      "price_eur": null,
+      "in_stock": null
+    },
+    {
+      "variant_name": "Spruce Green w/ Standard Floor",
+      "variant_slug": "pivot-solo-tent-spruce-green-standard-floor",
+      "pole_option": "52-inch trekking pole or tent pole + 32-inch trekking pole or tent pole",
+      "floor_option": "1 oz/sqyd DCF floor",
+      "inner_option": ".67 oz/sqyd ultralight insect netting",
+      "color": "Spruce Green",
+      "weight_tent_g": 450,
+      "weight_fly_g": null,
+      "weight_inner_g": null,
+      "weight_poles_g": null,
+      "weight_stakes_g": null,
+      "weight_stuff_sack_g": 8.5,
+      "weight_typical_g": 450,
+      "weight_typical_notes": "Displayed product weight including guy lines, sewn-in Linelocs, and taped seams.",
+      "packed_length_cm": null,
+      "packed_diameter_cm": null,
+      "price_usd": 649,
+      "price_eur": null,
+      "in_stock": null
+    }
+  ],
+  "specs_extra": [
+    {
+      "key": "lead_time",
+      "value": "Ships in 1-3 Business Days",
+      "unit": null,
+      "label": "Délai d'expédition",
+      "category": "identification"
+    },
+    {
+      "key": "product_weight_display_scope",
+      "value": "Le poids affiché près du bouton d’achat inclut les guy lines, les LineLoc cousus et les coutures scellées. Le choix du tissu de canopée et du sol affecte le poids affiché.",
+      "unit": null,
+      "label": "Périmètre du poids affiché",
+      "category": "poids"
+    },
+    {
+      "key": "stuff_sack_weight_g",
+      "value": "8.5",
+      "unit": "g",
+      "label": "Poids du sac DCF medium",
+      "category": "poids"
+    },
+    {
+      "key": "repair_tape_weight_g",
+      "value": "4",
+      "unit": "g",
+      "label": "Poids du ruban de réparation DCF",
+      "category": "poids"
+    },
+    {
+      "key": "spare_zipper_sliders_weight_g",
+      "value": "4.5",
+      "unit": "g",
+      "label": "Poids des deux curseurs de rechange",
+      "category": "poids"
+    },
+    {
+      "key": "additional_items_total_weight_g",
+      "value": "17",
+      "unit": "g",
+      "label": "Poids total des accessoires inclus",
+      "category": "poids"
+    },
+    {
+      "key": "stake_requirement",
+      "value": "6 à 8 sardines requises, non incluses",
+      "unit": null,
+      "label": "Sardines requises",
+      "category": "poids"
+    },
+    {
+      "key": "rear_peak_height_cm",
+      "value": "81",
+      "unit": "cm",
+      "label": "Hauteur du pic arrière droit",
+      "category": "dimensions"
+    },
+    {
+      "key": "canopy_clearance_cm",
+      "value": "10",
+      "unit": "cm",
+      "label": "Hauteur de la canopée au-dessus du sol",
+      "category": "dimensions"
+    },
+    {
+      "key": "width_including_vestibules_cm",
+      "value": "185.5",
+      "unit": "cm",
+      "label": "Largeur totale avec vestibules",
+      "category": "dimensions"
+    },
+    {
+      "key": "vestibule_area_note",
+      "value": "24 pouces de profondeur, environ 8 sqft",
+      "unit": null,
+      "label": "Profondeur et surface du vestibule",
+      "category": "dimensions"
+    },
+    {
+      "key": "inner_rear_peak_height_cm",
+      "value": "81",
+      "unit": "cm",
+      "label": "Hauteur intérieure du pic arrière droit",
+      "category": "dimensions"
+    },
+    {
+      "key": "floor_width_left_end_cm",
+      "value": "74",
+      "unit": "cm",
+      "label": "Largeur du sol côté gauche",
+      "category": "dimensions"
+    },
+    {
+      "key": "floor_width_right_end_cm",
+      "value": "71",
+      "unit": "cm",
+      "label": "Largeur du sol côté droit",
+      "category": "dimensions"
+    },
+    {
+      "key": "floor_width_deepest_cm",
+      "value": "107",
+      "unit": "cm",
+      "label": "Largeur du sol au point le plus profond",
+      "category": "dimensions"
+    },
+    {
+      "key": "zipper_entry_height_cm",
+      "value": "102",
+      "unit": "cm",
+      "label": "Hauteur d'entrée zippée",
+      "category": "dimensions"
+    },
+    {
+      "key": "packed_size_rolled_tight_cm",
+      "value": "10 x 28",
+      "unit": "cm",
+      "label": "Dimensions roulée serrée",
+      "category": "dimensions"
+    },
+    {
+      "key": "packed_volume_rolled_tight_l",
+      "value": "2.3",
+      "unit": "L",
+      "label": "Volume roulée serrée",
+      "category": "dimensions"
+    },
+    {
+      "key": "stuff_sack_size_cm",
+      "value": "15 x 30.5",
+      "unit": "cm",
+      "label": "Dimensions du sac de rangement medium",
+      "category": "dimensions"
+    },
+    {
+      "key": "packed_size_notes",
+      "value": "Roulée de manière décontractée, la tente prendra environ 2.5 cm de plus en diamètre et en longueur. Les options de sol et canopée plus lourdes seront légèrement plus volumineuses une fois roulées.",
+      "unit": null,
+      "label": "Notes sur le volume plié",
+      "category": "dimensions"
+    },
+    {
+      "key": "zippers",
+      "value": "#3 YKK Zippers",
+      "unit": null,
+      "label": "Fermetures éclair",
+      "category": "materiaux"
+    },
+    {
+      "key": "guylines",
+      "value": "Z-Line, jaune vif",
+      "unit": null,
+      "label": "Haubans",
+      "category": "materiaux"
+    },
+    {
+      "key": "adjusters",
+      "value": "LineLoc V",
+      "unit": null,
+      "label": "Régleurs",
+      "category": "materiaux"
+    },
+    {
+      "key": "included_accessories",
+      "value": "Medium DCF Stuff Sack, bande de réparation DCF 54 pouces, deux curseurs de zip de rechange",
+      "unit": null,
+      "label": "Accessoires inclus",
+      "category": "accessoires"
+    },
+    {
+      "key": "setup_guyline_lengths_cm",
+      "value": "Peak upper 122 ; Peak lower 132 ; Right-rear peak / head wall / rear wall 122 x3 ; Corners 61 x5",
+      "unit": null,
+      "label": "Longueurs de haubans recommandées",
+      "category": "montage"
+    },
+    {
+      "key": "seam_sealing",
+      "value": "Toutes les tentes Zpacks ont des coutures rubanées et des points d’ancrage collés. Aucun seam sealing n’est nécessaire.",
+      "unit": null,
+      "label": "Étanchéité des coutures",
+      "category": "montage"
+    }
+  ],
+  "extraction_notes": {
+    "fields_not_found": [
+      "season_rating",
+      "geometry_name",
+      "geometry_patented",
+      "fly_waterproofness_mm",
+      "floor_waterproofness_mm",
+      "pole_diameter_mm",
+      "pole_sleeve_material",
+      "price_eur"
+    ],
+    "ambiguous_fields": [
+      "Les largeurs intérieures sont données par côté gauche, côté droit et au point le plus profond, sans correspondance explicite tête/pieds."
+    ],
+    "new_columns_to_create": [],
+    "comments": "Fiche revue contre la page produit officielle Zpacks le 17 mai 2026. Les champs non explicitement publiés restent à null."
+  }
+}

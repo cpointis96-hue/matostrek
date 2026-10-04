@@ -1,0 +1,85 @@
+{
+  "source_url": "https://www.bigagnes.fr/catalogue/p/tsrvst2526.html",
+  "scraped_at": "2026-05-16",
+  "brand": "Big Agnes",
+  "brand_slug": "big-agnes",
+  "name": "String Ridge VST 2.5",
+  "slug": "string-ridge-vst-2-5",
+  "sku": "TSRVST2526",
+  "price_eur": 650,
+  "capacity": 2,
+  "season_rating": "3-season",
+  "structure_type": "non-freestanding",
+  "wall_type": "hybrid",
+  "poles_required": "trekking",
+  "tagline": "Tarp-tent alliant performance ultralégère et architecture stabilisée",
+  "description": "Tente style tarp alliant performance ultralégère et conception architecturale stable. L'architecture asymétrique maximise le volume intérieur pour le matériel et le confort.",
+  "key_features": [
+    "Architecture asymétrique volume élevé",
+    "Fermeture ErgoZip double curseur",
+    "Poches de rangement intérieures",
+    "Boucles d'ancrage intérieures",
+    "Poche Quick Stash pour porte",
+    "Fermeture magnétique auvent",
+    "Système de ventilation hybride",
+    "Supporte matelas jusqu'à 63cm de large",
+    "Tissu HyperBead™ polyester recyclé",
+    "Sans PFAS ajoutés intentionnellement",
+    "Sardines Dirt Dagger UL aluminium"
+  ],
+  "manufacturer_claims": "HyperBead™ : imperméabilité 4000mm PFAS-free. Polyester recyclé 20D/15D ripstop. Architecture asymétrique maximise volume intérieur.",
+  "ideal_for": "Randonneurs ultralégers utilisant déjà des bâtons de trek. Bivouac 3 saisons.",
+  "care_instructions": "Stockage : sec, endroit frais, varier le pliage. Nettoyage : éponge eau tiède ou savon doux. Éviter : machine, eau chaude, javel, UV prolongés. Fermetures : lubrifier.",
+  "warranty_notes": "Support SAV France direct fabricant. Traitement express.",
+  "faq_important": "Imperméabilité 4000mm. Bâtons non fournis (utilisateur apporte les siens). 2 portes, 2 auvents.",
+  "compatible_accessories": "Footprint recommandé.",
+  "weight": {
+    "total_g": 954,
+    "minimum_g": 845,
+    "fly_only_g": 845,
+    "stakes_g": 81
+  },
+  "packed_size": {
+    "length_cm": 37,
+    "diameter_cm": 12
+  },
+  "dimensions": {
+    "floor_area_sqm": 3.3,
+    "vestibule_area_sqm": 0.9,
+    "vestibule_count": 2,
+    "door_count": 2
+  },
+  "fabrics": {
+    "fly": {
+      "material": "HyperBead™ polyester 20D recyclé ripstop",
+      "type": "polyester",
+      "waterproofness_mm": 4000,
+      "pfas_free": true
+    },
+    "floor": {
+      "material": "HyperBead™ polyester 15D recyclé ripstop",
+      "type": "polyester",
+      "waterproofness_mm": 4000,
+      "pfas_free": true
+    },
+    "inner": "Mesh polyester"
+  },
+  "poles": {
+    "type": "trekking",
+    "material": "DAC aluminium anodisation verte",
+    "user_supplied": true,
+    "count": 2
+  },
+  "stakes": {
+    "count": 9,
+    "type": "Dirt Dagger UL aluminium",
+    "included": true
+  },
+  "colors": ["Asphalt/Mint Leaf"],
+  "included_items": [
+    "Sac de transport",
+    "9 sardines Dirt Dagger UL aluminium"
+  ],
+  "return_policy_days": 21,
+  "shipping_free_above_eur": 100
+}

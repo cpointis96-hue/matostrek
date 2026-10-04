@@ -1,0 +1,335 @@
+{
+  "extraction_meta": {
+    "source_url": "https://zpacks.com/products/altaplex-tent",
+    "extracted_at": "2026-05-17",
+    "extractor": "codex",
+    "source_type": "user_provided"
+  },
+  "brand": {
+    "name": "Zpacks",
+    "slug": "zpacks",
+    "country": "USA",
+    "website_url": "https://zpacks.com"
+  },
+  "tent": {
+    "name": "Altaplex Tent",
+    "slug": "altaplex-tent",
+    "tagline": "Tente ultralégère en Dyneema pour la randonnée pédestre et le thru-hiking.",
+    "description": "L'Altaplex Tent est une tente ultralégère en Dyneema® Composite Fabric conçue pour la randonnée pédestre et le thru-hiking. Déclinée ici en versions une place et deux places, elle vise à offrir un excellent volume intérieur par rapport au poids. La structure repose sur deux bâtons de randonnée non inclus, avec une conception double porte et double vestibule pensée pour faciliter l'accès, le rangement du matériel et la ventilation.",
+    "key_features": "- Construction en Dyneema® Composite Fabric 0.51 oz/yd² pour la toile et le sol\n- Deux portes et deux vestibules pour un accès bilatéral et du stockage séparé\n- Structure hybride utilisant deux bâtons de randonnée non inclus\n- Ventilation haute au pic et basse en périphérie pour aider à limiter la condensation\n- Sol baignoire avec rebords relevés de 3 à 5 pouces pour protéger des éclaboussures et de l'eau de ruissellement\n- Multiples points d'ancrage pour améliorer la tenue au vent\n- Livrée prête à l'emploi avec haubans installés, 8 piquets titane, sac de rangement et kit de réparation DCF\n- Option de porte tout mesh selon demande ou disponibilité\n- Option de coloris de sol Pebble parfois disponible en supplément",
+    "manufacturer_claims": "Le DCF est présenté comme intrinsèquement imperméable, sans traitement DWR à renouveler, et l'Altaplex comme l'une des tentes double porte les plus légères du marché.",
+    "ideal_for": "Randonneurs ultralégers et thru-hikers recherchant un abri très léger avec bon espace intérieur et protection complète contre intempéries et insectes.",
+    "comparison_notes": "La version 1-Person privilégie le poids minimal. La version 2-Person augmente l'espace habitable avec un surpoids modéré. Le même DCF 0.51 oz/yd² est utilisé pour le sol afin de réduire le poids.",
+    "care_instructions": null,
+    "repair_notes": "Kit de réparation DCF inclus. Zpacks propose également un service de réparation payant pour les dommages non couverts par la garantie.",
+    "faq_important": "Q : Les bâtons de randonnée sont-ils inclus ? R : Non.\n\nQ : Combien de bâtons faut-il ? R : Deux.\n\nQ : Hauteur recommandée des bâtons ? R : 120 cm pour la 1-Person et 125 cm pour la 2-Person.\n\nQ : Les haubans et piquets sont-ils inclus ? R : Oui, haubans préinstallés et 8 piquets titane inclus.",
+    "compatible_accessories": "Deux bâtons de randonnée, option de porte tout mesh selon stock ou demande, option de coloris de sol Pebble, service de réparation Zpacks.",
+    "warranty_notes": "Garantie limitée à vie couvrant les défauts de matériaux et de fabrication. Exclut l'usure normale, la mauvaise utilisation, la négligence, les modifications non autorisées et les dommages liés aux UV.",
+    "capacity": 1,
+    "season_rating": null,
+    "structure_type": "non-freestanding",
+    "wall_type": "hybrid",
+    "poles_required": "trekking",
+    "poles_included": false,
+    "geometry_name": null,
+    "geometry_patented": null,
+    "door_count": 2,
+    "vestibule_count": 2,
+    "vent_count": null,
+    "interior_pockets": null,
+    "guy_lines_max": null,
+    "stake_points_max": null,
+    "floor_length_cm": 230,
+    "floor_width_cm": 102,
+    "floor_width_head_cm": null,
+    "floor_width_foot_cm": null,
+    "floor_area_sqm": 2.3,
+    "floor_bathtub_height_cm": null,
+    "floor_height_adjustable": null,
+    "peak_height_inner_cm": 147,
+    "peak_height_fly_cm": 147,
+    "vestibule_area_sqm": null,
+    "vestibule_depth_cm": 61,
+    "fly_length_cm": 254,
+    "fly_width_cm": 185,
+    "fly_fabric": "Dyneema Composite Fabric .55 oz/sqyd or .75 oz/sqyd depending on material option",
+    "fly_fabric_type": "DCF",
+    "fly_waterproofness_mm": null,
+    "fly_pfas_free": true,
+    "floor_fabric": "Dyneema Composite Fabric .75 oz/sqyd or 1 oz/sqyd depending on material option",
+    "floor_fabric_type": "DCF",
+    "floor_waterproofness_mm": null,
+    "inner_fabric": "Moustiquaire nylon No-See-Um avec porte hybride standard bas tissu / haut mesh",
+    "inner_mesh": true,
+    "seam_construction": "taped",
+    "seam_waterproof": true,
+    "zipper_fly": null,
+    "zipper_inner": "#3 YKK rainbow zipper",
+    "magnetic_toggles": null,
+    "pole_diameter_mm": null,
+    "pole_sleeve_material": null,
+    "pole_splint_included": false,
+    "pole_jack_included": false,
+    "tie_out_count_perimeter": null,
+    "tie_out_count_midpanel": null,
+    "tie_out_count_apex": null,
+    "ladder_locks": null,
+    "guyline_brand": "1.6 mm Z-Line Guylines",
+    "fly_first_pitch": null,
+    "inner_first_pitch": null,
+    "freestanding_no_stakes": false,
+    "protected_doorways": true,
+    "full_coverage_fly": true,
+    "tensioned_floor": null,
+    "groundsheet_required": false,
+    "groundsheet_recommended": null,
+    "trekking_pole_support": true,
+    "vestibule_pole_support": false,
+    "reflective_elements": null,
+    "manufacture_country": "USA",
+    "stakes_included": 0,
+    "stakes_type": null,
+    "stuff_sack_included": true,
+    "repair_kit_included": true,
+    "carry_bag_included": false,
+    "price_usd": 699,
+    "price_eur": null,
+    "product_url": "https://zpacks.com/products/altaplex-tent",
+    "warranty_years": null
+  },
+  "variants": [
+    {
+      "variant_name": "Blue w/ Lite Floor",
+      "variant_slug": "altaplex-tent-blue-lite-floor",
+      "pole_option": "1 trekking pole adjusted to 56-58 inches (142-147 cm)",
+      "floor_option": "Lite floor (.75 oz/sqyd DCF)",
+      "inner_option": null,
+      "color": "Blue",
+      "weight_tent_g": 374,
+      "weight_fly_g": null,
+      "weight_inner_g": null,
+      "weight_poles_g": null,
+      "weight_stakes_g": null,
+      "weight_stuff_sack_g": 9,
+      "weight_typical_g": 374,
+      "weight_typical_notes": "Displayed total tent weight including guy lines, sewn-in linelocs, and taped seams.",
+      "packed_length_cm": 28,
+      "packed_diameter_cm": 11.5,
+      "price_usd": 699,
+      "price_eur": null,
+      "in_stock": false
+    },
+    {
+      "variant_name": "Olive Drab w/ Lite Floor",
+      "variant_slug": "altaplex-tent-olive-drab-lite-floor",
+      "pole_option": "1 trekking pole adjusted to 56-58 inches (142-147 cm)",
+      "floor_option": "Lite floor (.75 oz/sqyd DCF)",
+      "inner_option": null,
+      "color": "Olive Drab",
+      "weight_tent_g": 374,
+      "weight_fly_g": null,
+      "weight_inner_g": null,
+      "weight_poles_g": null,
+      "weight_stakes_g": null,
+      "weight_stuff_sack_g": 9,
+      "weight_typical_g": 374,
+      "weight_typical_notes": "Displayed total tent weight including guy lines, sewn-in linelocs, and taped seams.",
+      "packed_length_cm": 28,
+      "packed_diameter_cm": 11.5,
+      "price_usd": 699,
+      "price_eur": null,
+      "in_stock": false
+    },
+    {
+      "variant_name": "Spruce Green w/ Standard Floor",
+      "variant_slug": "altaplex-tent-spruce-green-standard-floor",
+      "pole_option": "1 trekking pole adjusted to 56-58 inches (142-147 cm)",
+      "floor_option": "Standard floor (1 oz/sqyd DCF)",
+      "inner_option": null,
+      "color": "Spruce Green",
+      "weight_tent_g": 467,
+      "weight_fly_g": null,
+      "weight_inner_g": null,
+      "weight_poles_g": null,
+      "weight_stakes_g": null,
+      "weight_stuff_sack_g": 9,
+      "weight_typical_g": 467,
+      "weight_typical_notes": "Displayed total tent weight including guy lines, sewn-in linelocs, and taped seams.",
+      "packed_length_cm": null,
+      "packed_diameter_cm": null,
+      "price_usd": 699,
+      "price_eur": null,
+      "in_stock": true
+    }
+  ],
+  "specs_extra": [
+    {
+      "key": "price_variation_note",
+      "value": "Les prix peuvent varier selon les options de personnalisation, notamment la couleur.",
+      "unit": null,
+      "label": "Note sur les prix",
+      "category": "prix"
+    },
+    {
+      "key": "floor_color_standard",
+      "value": "Medium Gray",
+      "unit": null,
+      "label": "Couleur de sol standard",
+      "category": "options"
+    },
+    {
+      "key": "floor_color_optional",
+      "value": "Pebble",
+      "unit": null,
+      "label": "Couleur de sol optionnelle",
+      "category": "options"
+    },
+    {
+      "key": "door_option_standard",
+      "value": "Porte hybride standard avec bas en tissu solide et haut en mesh",
+      "unit": null,
+      "label": "Option de porte standard",
+      "category": "options"
+    },
+    {
+      "key": "door_option_optional",
+      "value": "Porte tout mesh disponible sur demande ou selon le stock",
+      "unit": null,
+      "label": "Option de porte alternative",
+      "category": "options"
+    },
+    {
+      "key": "mesh_material",
+      "value": "Nylon No-See-Um",
+      "unit": null,
+      "label": "Moustiquaire",
+      "category": "materiaux"
+    },
+    {
+      "key": "guyline_material",
+      "value": "Zpacks Dyneema Cord",
+      "unit": null,
+      "label": "Cordage",
+      "category": "materiaux"
+    },
+    {
+      "key": "reinforcement_material",
+      "value": "Polycarbonate (Lynx)",
+      "unit": null,
+      "label": "Matériau des renforts",
+      "category": "materiaux"
+    },
+    {
+      "key": "waterproofing_note",
+      "value": "Le DCF est intrinsèquement imperméable et ne nécessite pas de traitement DWR qui s'use avec le temps.",
+      "unit": null,
+      "label": "Note sur l'imperméabilité",
+      "category": "materiaux"
+    },
+    {
+      "key": "included_items",
+      "value": "8 piquets Titanium Skewers, 1 sac de rangement, 1 kit de réparation DCF, haubans déjà installés",
+      "unit": null,
+      "label": "Accessoires inclus",
+      "category": "accessoires"
+    },
+    {
+      "key": "bathtub_floor_height_range_cm",
+      "value": "7-13",
+      "unit": "cm",
+      "label": "Hauteur des rebords du sol baignoire",
+      "category": "dimensions"
+    },
+    {
+      "key": "setup_summary",
+      "value": "Étaler la tente sol vers le bas, planter les 4 coins, positionner 2 bâtons dans les renforts au sommet, lever la structure, ajuster les vestibules puis retendre les coins et points latéraux si nécessaire.",
+      "unit": null,
+      "label": "Résumé du montage",
+      "category": "montage"
+    },
+    {
+      "key": "setup_stakes_initial",
+      "value": "4",
+      "unit": null,
+      "label": "Piquets d'angle initiaux",
+      "category": "montage"
+    },
+    {
+      "key": "setup_pole_height_1p_cm",
+      "value": "120",
+      "unit": "cm",
+      "label": "Hauteur de bâtons recommandée 1-Person",
+      "category": "montage"
+    },
+    {
+      "key": "setup_pole_height_2p_cm",
+      "value": "125",
+      "unit": "cm",
+      "label": "Hauteur de bâtons recommandée 2-Person",
+      "category": "montage"
+    },
+    {
+      "key": "warranty_type",
+      "value": "Limited Lifetime Warranty",
+      "unit": null,
+      "label": "Type de garantie",
+      "category": "garantie"
+    },
+    {
+      "key": "warranty_coverage",
+      "value": "Défauts de matériaux et de fabrication",
+      "unit": null,
+      "label": "Couverture de garantie",
+      "category": "garantie"
+    },
+    {
+      "key": "warranty_exclusions",
+      "value": "Usure normale, mauvaise utilisation, négligence, modifications non autorisées, dommages liés aux UV",
+      "unit": null,
+      "label": "Exclusions de garantie",
+      "category": "garantie"
+    },
+    {
+      "key": "paid_repair_service",
+      "value": "Zpacks propose un service de réparation payant pour les dommages non couverts comme brûlures, déchirures accidentelles ou fermetures éclair cassées.",
+      "unit": null,
+      "label": "Service de réparation",
+      "category": "garantie"
+    },
+    {
+      "key": "product_weight_display_scope",
+      "value": "The total weight displayed near the 'add to cart' button shows the weight of the tent, including guy lines, sewn-in linelocs, and taped seams.",
+      "unit": null,
+      "label": "Périmètre du poids affiché",
+      "category": "poids"
+    },
+    {
+      "key": "stuff_sack_weight_g",
+      "value": "9",
+      "unit": "g",
+      "label": "Poids du Medium-Plus DCF Stuff Sack",
+      "category": "poids"
+    },
+    {
+      "key": "repair_tape_weight_g",
+      "value": "4",
+      "unit": "g",
+      "label": "Poids du ruban de réparation DCF 54 pouces",
+      "category": "poids"
+    },
+    {
+      "key": "spare_zipper_sliders_weight_g",
+      "value": "4.5",
+      "unit": "g",
+      "label": "Poids des deux curseurs de zip de rechange",
+      "category": "poids"
+    },
+    {
+      "key": "additional_items_total_weight_g",
+      "value": "17.5",
+      "unit": "g",
+      "label": "Poids total des accessoires inclus",
+      "category": "poids"
+    }
+  ]
+}

@@ -1,0 +1,552 @@
+{
+  "extraction_meta": {
+    "source_url": "https://zpacks.com/products/duplex-pro-tent",
+    "extracted_at": "2026-05-17",
+    "extractor": "codex",
+    "source_type": "user_provided"
+  },
+  "brand": {
+    "name": "Zpacks",
+    "slug": "zpacks",
+    "country": "USA",
+    "website_url": "https://zpacks.com"
+  },
+  "tent": {
+    "name": "Duplex Pro Tent",
+    "slug": "duplex-pro-tent",
+    "tagline": null,
+    "description": "La Duplex Pro Tent reprend plus d'une decennie de retours terrain sur la Duplex et ajoute plusieurs evolutions a une architecture deja reputee. Comme la Duplex Classic, elle utilise un Dyneema(R) Composite Fabric impermeable et durable concu pour tenir la distance en thru-hike, sur neige ou dans le vent. Son design entierement symetrique permet de l'orienter dans n'importe quel sens selon le vent, la pente et la vue, tout en conservant deux vestibules, des portes anti-tempete zippees et un tres grand espace de couchage capable d'accueillir deux matelas larges et longs sans augmenter l'empreinte au sol. L'ensemble vise un abri deux places tres leger, compact et facilement ventilable, avec une vraie protection contre les insectes et la pluie.",
+    "key_features": "- Construction en Dyneema(R) Composite Fabric impermeable, durable et sans PFAS\n- Design entierement symetrique permettant de monter et dormir dans n'importe quelle direction\n- Montage avec deux batons de randonnee de 48 pouces (122 cm) ou des mats de tente, plus 6 a 8 piquets non inclus\n- Compatible avec les Duplex Flex Poles pour une option semi-autoportante\n- Deux vestibules et quatre portes anti-tempete pouvant etre ouvertes ou enroulees independamment\n- Portes moustiquaire a doubles fermetures en L des deux cotes pour acces flexible et bonne protection anti-moustiques\n- Sol large de 50 pouces (127 cm) adapte a deux matelas larges et longs\n- Empreinte compacte pour une vraie tente deux places facile a caser sur petits emplacements\n- Moustiquaire integrale ultralegere 0.67 oz/sqyd et fermetures YKK #3\n- Haubans Z-Line 1.6 mm et regleurs LineLoc V\n- Poches mesh pres de chaque porte, accessibles de l'interieur ou de l'exterieur\n- Coutures scellees et points d'ancrage colles, sans seam sealing a realiser",
+    "manufacturer_claims": "Zpacks presente la Duplex Pro comme une evolution plus aboutie de son abri deux places iconique, avec un rapport poids-espace tres agressif, une grande polyvalence de ventilation et une structure symetrique concue pour mieux gerer orientation, vue et relief. La marque affirme aussi qu'il est difficile de trouver un abri deux places plus leger et mieux optimise.",
+    "ideal_for": null,
+    "comparison_notes": "Par rapport a la Duplex Classic d'origine, la Duplex Pro ajoute un design entierement symetrique, des portes moustiquaire a doubles fermetures en L, des attaches magnetiques pour les portes anti-tempete et un volume interieur adapte a deux matelas larges et longs sans augmenter l'empreinte au sol.",
+    "care_instructions": "Des instructions completes de lavage pour les tentes et tarps en Dyneema(R) Composite Fabric sont disponibles sur le site Zpacks.",
+    "repair_notes": "Un ruban de reparation DCF de 54 pouces et deux curseurs de fermeture eclair de rechange sont inclus. Zpacks indique egalement que des videos d'instructions sont disponibles pour le remplacement des curseurs.",
+    "faq_important": "Q : Combien de piquets faut-il ? R : 6 a 8, non inclus.\n\nQ : Les batons de randonnee sont-ils inclus ? R : Non.\n\nQ : La tente est-elle compatible avec les Duplex Flex Poles ? R : Oui, pour une configuration semi-autoportante.\n\nQ : Faut-il etancheifier les coutures ? R : Non, toutes les coutures sont deja scellees et les points d'ancrage sont colles.\n\nQ : Quelle option est en rupture ? R : Le materiau de sol Lite est annonce indisponible jusqu'a fin mai 2026, alors que le materiau de sol Standard des tentes Spruce reste en stock.",
+    "compatible_accessories": "Duplex Flex Poles, 6 a 8 piquets ultralegers, Flat Groundsheets, Trekking Pole Cups avec batons de 32 pouces pour augmenter la hauteur utile aux extremites, Pivot Duo comme alternative plus haute.",
+    "warranty_notes": null,
+    "capacity": 2,
+    "season_rating": null,
+    "structure_type": "non-freestanding",
+    "wall_type": "single",
+    "poles_required": "trekking",
+    "poles_included": false,
+    "geometry_name": "fully symmetrical",
+    "geometry_patented": null,
+    "door_count": 2,
+    "vestibule_count": 2,
+    "vent_count": 2,
+    "interior_pockets": 2,
+    "guy_lines_max": 8,
+    "stake_points_max": 8,
+    "floor_length_cm": 214,
+    "floor_width_cm": 127,
+    "floor_width_head_cm": null,
+    "floor_width_foot_cm": null,
+    "floor_area_sqm": 2.7,
+    "floor_bathtub_height_cm": 20.3,
+    "floor_height_adjustable": null,
+    "peak_height_inner_cm": 122,
+    "peak_height_fly_cm": 122,
+    "vestibule_area_sqm": null,
+    "vestibule_depth_cm": 55,
+    "fly_length_cm": 249,
+    "fly_width_cm": 236,
+    "fly_fabric": "Dyneema(R) Composite Fabric 0.55 oz/sqyd ou 0.75 oz/sqyd selon variante",
+    "fly_fabric_type": "DCF",
+    "fly_waterproofness_mm": null,
+    "fly_pfas_free": true,
+    "floor_fabric": "Dyneema(R) Composite Fabric 0.75 oz/sqyd ou 1.0 oz/sqyd selon variante",
+    "floor_fabric_type": "DCF",
+    "floor_waterproofness_mm": null,
+    "inner_fabric": "Moustiquaire ultralegere 0.67 oz/sqyd insect netting",
+    "inner_mesh": true,
+    "seam_construction": "taped",
+    "seam_waterproof": true,
+    "zipper_fly": "YKK #3",
+    "zipper_inner": "Double-L zippers YKK #3 sur les portes moustiquaire",
+    "magnetic_toggles": true,
+    "pole_diameter_mm": null,
+    "pole_sleeve_material": null,
+    "pole_splint_included": false,
+    "pole_jack_included": false,
+    "tie_out_count_perimeter": 6,
+    "tie_out_count_midpanel": 2,
+    "tie_out_count_apex": 2,
+    "ladder_locks": null,
+    "guyline_brand": "Z-Line 1.6 mm",
+    "fly_first_pitch": null,
+    "inner_first_pitch": null,
+    "freestanding_no_stakes": false,
+    "protected_doorways": true,
+    "full_coverage_fly": true,
+    "tensioned_floor": true,
+    "groundsheet_required": false,
+    "groundsheet_recommended": true,
+    "trekking_pole_support": true,
+    "vestibule_pole_support": false,
+    "reflective_elements": null,
+    "manufacture_country": "USA",
+    "stakes_included": 0,
+    "stakes_type": null,
+    "stuff_sack_included": true,
+    "repair_kit_included": true,
+    "carry_bag_included": false,
+    "price_usd": 799,
+    "price_eur": null,
+    "product_url": "https://zpacks.com/products/duplex-pro-tent",
+    "warranty_years": null
+  },
+  "variants": [
+    {
+      "variant_name": "Blue w/ Lite Floor",
+      "variant_slug": "duplex-pro-tent-blue-lite-floor",
+      "pole_option": "2 trekking poles or tent poles adjusted to 48 inches (122 cm)",
+      "floor_option": "Lite floor (.75 oz/sqyd DCF)",
+      "inner_option": null,
+      "color": "Blue",
+      "weight_tent_g": 544,
+      "weight_fly_g": null,
+      "weight_inner_g": null,
+      "weight_poles_g": null,
+      "weight_stakes_g": null,
+      "weight_stuff_sack_g": 9,
+      "weight_typical_g": 544,
+      "weight_typical_notes": "Displayed total tent weight including guy lines, sewn in linelocs, and taped seams.",
+      "packed_length_cm": 30.5,
+      "packed_diameter_cm": 12.7,
+      "price_usd": 799,
+      "price_eur": null,
+      "in_stock": false
+    },
+    {
+      "variant_name": "Olive Drab w/ Lite Floor",
+      "variant_slug": "duplex-pro-tent-olive-drab-lite-floor",
+      "pole_option": "2 trekking poles or tent poles adjusted to 48 inches (122 cm)",
+      "floor_option": "Lite floor (.75 oz/sqyd DCF)",
+      "inner_option": null,
+      "color": "Olive Drab",
+      "weight_tent_g": 544,
+      "weight_fly_g": null,
+      "weight_inner_g": null,
+      "weight_poles_g": null,
+      "weight_stakes_g": null,
+      "weight_stuff_sack_g": 9,
+      "weight_typical_g": 544,
+      "weight_typical_notes": "Displayed total tent weight including guy lines, sewn in linelocs, and taped seams.",
+      "packed_length_cm": 30.5,
+      "packed_diameter_cm": 12.7,
+      "price_usd": 799,
+      "price_eur": null,
+      "in_stock": false
+    },
+    {
+      "variant_name": "Spruce Green w/ Standard Floor",
+      "variant_slug": "duplex-pro-tent-spruce-green-standard-floor",
+      "pole_option": "2 trekking poles or tent poles adjusted to 48 inches (122 cm)",
+      "floor_option": "Standard floor (1 oz/sqyd DCF)",
+      "inner_option": null,
+      "color": "Spruce Green",
+      "weight_tent_g": 627,
+      "weight_fly_g": null,
+      "weight_inner_g": null,
+      "weight_poles_g": null,
+      "weight_stakes_g": null,
+      "weight_stuff_sack_g": 9,
+      "weight_typical_g": 627,
+      "weight_typical_notes": "Displayed total tent weight including guy lines, sewn in linelocs, and taped seams.",
+      "packed_length_cm": 30.5,
+      "packed_diameter_cm": 12.7,
+      "price_usd": 799,
+      "price_eur": null,
+      "in_stock": true
+    }
+  ],
+  "specs_extra": [
+    {
+      "key": "lead_time",
+      "value": "Expedition en 1-3 jours ouvrables",
+      "unit": null,
+      "label": "Delai d'expedition",
+      "category": "identification"
+    },
+    {
+      "key": "stock_note",
+      "value": "Le materiau de sol Lite est en rupture de stock jusqu'a fin mai 2026 en raison de problemes de machines chez le fournisseur. Le materiau de sol Standard des tentes Spruce reste en stock.",
+      "unit": null,
+      "label": "Note de stock",
+      "category": "identification"
+    },
+    {
+      "key": "displayed_tent_weight_g",
+      "value": "627",
+      "unit": "g",
+      "label": "Poids total affiche de la tente",
+      "category": "poids"
+    },
+    {
+      "key": "displayed_weight_scope",
+      "value": "Le poids total affiche inclut les guy lines, les LineLocs cousus et les coutures scellees.",
+      "unit": null,
+      "label": "Perimetre du poids affiche",
+      "category": "poids"
+    },
+    {
+      "key": "stuff_sack_weight_g",
+      "value": "9",
+      "unit": "g",
+      "label": "Poids du Medium-Plus DCF Stuff Sack",
+      "category": "poids"
+    },
+    {
+      "key": "repair_tape_weight_g",
+      "value": "4",
+      "unit": "g",
+      "label": "Poids du ruban de reparation DCF 54 pouces",
+      "category": "poids"
+    },
+    {
+      "key": "spare_zipper_sliders_weight_g",
+      "value": "4.5",
+      "unit": "g",
+      "label": "Poids des deux curseurs de zip de rechange",
+      "category": "poids"
+    },
+    {
+      "key": "included_accessories_total_weight_g",
+      "value": "17.5",
+      "unit": "g",
+      "label": "Poids total des accessoires inclus",
+      "category": "poids"
+    },
+    {
+      "key": "weight_variation_note",
+      "value": "Le choix du tissu de canopy affecte le poids affiche. 6 a 8 piquets sont requis mais non inclus.",
+      "unit": null,
+      "label": "Variation de poids selon tissu",
+      "category": "poids"
+    },
+    {
+      "key": "ridgeline_width_cm",
+      "value": "135",
+      "unit": "cm",
+      "label": "Largeur au faite",
+      "category": "dimensions"
+    },
+    {
+      "key": "canopy_clearance_cm",
+      "value": "15.25",
+      "unit": "cm",
+      "label": "Hauteur du canopy au-dessus du sol",
+      "category": "dimensions"
+    },
+    {
+      "key": "zipper_entry_height_cm",
+      "value": "91",
+      "unit": "cm",
+      "label": "Hauteur d'entree par fermeture eclair",
+      "category": "dimensions"
+    },
+    {
+      "key": "packed_size_rolled_tight_cm",
+      "value": "12.7 x 30.5",
+      "unit": "cm",
+      "label": "Dimensions roulee serree",
+      "category": "dimensions"
+    },
+    {
+      "key": "packed_volume_rolled_tight_l",
+      "value": "3.9",
+      "unit": "L",
+      "label": "Volume roulee serree",
+      "category": "dimensions"
+    },
+    {
+      "key": "packed_volume_rolled_tight_cuin",
+      "value": "236",
+      "unit": "cu in",
+      "label": "Volume roulee serree",
+      "category": "dimensions"
+    },
+    {
+      "key": "stuff_sack_size_cm",
+      "value": "18 x 33",
+      "unit": "cm",
+      "label": "Dimensions du stuff sack inclus",
+      "category": "dimensions"
+    },
+    {
+      "key": "packed_size_loose_note",
+      "value": "Roulee de facon decontractee, la tente prend environ 2.5 cm de plus en diametre et en longueur.",
+      "unit": null,
+      "label": "Note sur la taille pliee",
+      "category": "dimensions"
+    },
+    {
+      "key": "stuff_sack_note",
+      "value": "Le stuff sack est intentionnellement grand pour eviter de lutter le matin. Les options de tissus plus lourds se roulent legerement plus gros.",
+      "unit": null,
+      "label": "Note sur le sac de rangement",
+      "category": "dimensions"
+    },
+    {
+      "key": "fabric_options",
+      "value": "Lite : canopy 0.55 oz/sqyd DCF et sol 0.75 oz/sqyd DCF ; Standard : canopy 0.75 oz/sqyd DCF et sol 1.0 oz/sqyd DCF.",
+      "unit": null,
+      "label": "Options de tissus",
+      "category": "materiaux"
+    },
+    {
+      "key": "fabric_main",
+      "value": "Dyneema(R) Composite Fabric (DCF)",
+      "unit": null,
+      "label": "Tissu principal",
+      "category": "materiaux"
+    },
+    {
+      "key": "pfas_note",
+      "value": "Sans PFCs, PFAS, DWR ni retardateurs de flamme.",
+      "unit": null,
+      "label": "Substances et traitements absents",
+      "category": "materiaux"
+    },
+    {
+      "key": "bio_based_fiber",
+      "value": "Bio-Based Dyneema(R) Fiber provenant de matieres premieres renouvelables",
+      "unit": null,
+      "label": "Dyneema biosource",
+      "category": "materiaux"
+    },
+    {
+      "key": "mesh_material",
+      "value": "0.67 oz/sqyd ultralight insect netting",
+      "unit": null,
+      "label": "Moustiquaire",
+      "category": "materiaux"
+    },
+    {
+      "key": "zipper_spec",
+      "value": "YKK #3",
+      "unit": null,
+      "label": "Fermetures eclair",
+      "category": "materiaux"
+    },
+    {
+      "key": "guyline_spec",
+      "value": "Z-Line 1.6 mm jaune vif",
+      "unit": null,
+      "label": "Haubans",
+      "category": "materiaux"
+    },
+    {
+      "key": "symmetrical_design_note",
+      "value": "Le design entierement symetrique permet d'orienter chaque extremite face au vent selon la pente du terrain et la vue.",
+      "unit": null,
+      "label": "Benefice du design symetrique",
+      "category": "usage"
+    },
+    {
+      "key": "storm_door_note",
+      "value": "Les quatre portes anti-tempete peuvent etre deployees pour former des vestibules, ou maintenues ouvertes par attaches magnetiques pour la vue et la ventilation.",
+      "unit": null,
+      "label": "Gestion des portes anti-tempete",
+      "category": "usage"
+    },
+    {
+      "key": "screen_door_note",
+      "value": "Les portes moustiquaire utilisent des doubles fermetures en L et peuvent soit draper pour bloquer les moustiques, soit s'ouvrir completement pour acceder aux vestibules ou entrer de chaque cote des batons.",
+      "unit": null,
+      "label": "Fonctionnement des portes moustiquaire",
+      "category": "usage"
+    },
+    {
+      "key": "wet_gear_storage",
+      "value": "Chaussures et sac a dos mouilles peuvent etre ranges dans l'un des quatre espaces d'auvent.",
+      "unit": null,
+      "label": "Rangement du materiel mouille",
+      "category": "usage"
+    },
+    {
+      "key": "tall_user_note",
+      "value": "Les grands gabarits en solo peuvent dormir en diagonale ou utiliser des Trekking Pole Cups et des batons de 32 pouces aux extremites pour augmenter la hauteur utile. La Pivot Duo est citee comme alternative plus haute.",
+      "unit": null,
+      "label": "Conseil pour grands gabarits",
+      "category": "usage"
+    },
+    {
+      "key": "bathtub_floor_note",
+      "value": "Le sol baignoire a murs hauts et en retrait du perimetre aide a limiter le splash-up et la condensation.",
+      "unit": null,
+      "label": "Protection du sol baignoire",
+      "category": "usage"
+    },
+    {
+      "key": "ventilation_rain_note",
+      "value": "Sous pluie calme ou sous des arbres humides, une porte sous le vent peut rester ouverte pour aerer sans laisser tomber l'eau dans l'espace habitable.",
+      "unit": null,
+      "label": "Ventilation par temps humide",
+      "category": "usage"
+    },
+    {
+      "key": "compact_footprint_note",
+      "value": "L'empreinte compacte est presentee comme un avantage cle face a des designs asymetriques plus encombrants pour trouver un emplacement plat.",
+      "unit": null,
+      "label": "Avantage de l'empreinte compacte",
+      "category": "usage"
+    },
+    {
+      "key": "line_visibility_note",
+      "value": "Les haubans Z-Line 1.6 mm jaunes sont faciles a voir de jour comme de nuit.",
+      "unit": null,
+      "label": "Visibilite des haubans",
+      "category": "usage"
+    },
+    {
+      "key": "groundsheet_note",
+      "value": "Le sol est annonce assez durable pour ne pas exiger de tapis de sol separe ; des Flat Groundsheets restent disponibles en option.",
+      "unit": null,
+      "label": "Besoin de tapis de sol",
+      "category": "usage"
+    },
+    {
+      "key": "pocket_note",
+      "value": "Des poches mesh sont situees pres de chaque porte moustiquaire et restent accessibles depuis l'interieur comme l'exterieur.",
+      "unit": null,
+      "label": "Poches interieures",
+      "category": "usage"
+    },
+    {
+      "key": "opacity_note",
+      "value": "Le tissu est semi-transparent ; les tissus plus epais offrent plus d'opacite.",
+      "unit": null,
+      "label": "Opacite du tissu",
+      "category": "usage"
+    },
+    {
+      "key": "expected_lifespan",
+      "value": "Au moins une thru-hike complete de 2500+ miles, ou plusieurs annees d'utilisation occasionnelle avec un peu d'entretien.",
+      "unit": null,
+      "label": "Duree de vie attendue",
+      "category": "usage"
+    },
+    {
+      "key": "manufacturing_note",
+      "value": "Concu et assemble aux USA a partir de composants domestiques et importes.",
+      "unit": null,
+      "label": "Lieu de conception et assemblage",
+      "category": "usage"
+    },
+    {
+      "key": "peak_guyline_length_cm",
+      "value": "183",
+      "unit": "cm",
+      "label": "Longueur des haubans de pic",
+      "category": "montage"
+    },
+    {
+      "key": "peak_guyline_stake_loop_position_cm",
+      "value": "46",
+      "unit": "cm",
+      "label": "Position de la boucle de piquet sur les haubans de pic",
+      "category": "montage"
+    },
+    {
+      "key": "side_guyline_length_cm",
+      "value": "122",
+      "unit": "cm",
+      "label": "Longueur des haubans lateraux",
+      "category": "montage"
+    },
+    {
+      "key": "corner_guyline_length_cm",
+      "value": "61",
+      "unit": "cm",
+      "label": "Longueur des haubans d'angle",
+      "category": "montage"
+    },
+    {
+      "key": "setup_summary",
+      "value": "Regler deux batons a environ 122 cm, laisser du mou aux lignes d'angle, planter les quatre coins a 45 degres, inserer puis planter le baton avant, ajuster la hauteur, inserer puis planter le baton arriere, lisser les parois en repositionnant si besoin, puis planter les deux ancrages lateraux.",
+      "unit": null,
+      "label": "Resume du montage",
+      "category": "montage"
+    },
+    {
+      "key": "setup_corner_clearance_cm",
+      "value": "18",
+      "unit": "cm",
+      "label": "Hauteur recommandee des coins au-dessus du sol",
+      "category": "montage"
+    },
+    {
+      "key": "orientation_note",
+      "value": "La tente etant symetrique, chaque extremite peut etre orientee face au vent.",
+      "unit": null,
+      "label": "Orientation face au vent",
+      "category": "montage"
+    },
+    {
+      "key": "splash_up_note",
+      "value": "Le splash-up peut se produire sur surfaces compactes en forte pluie ; privilegier des emplacements sur feuilles ou aiguilles de pin et retirer les brindilles pointues tout en gardant un maximum de coussin naturel.",
+      "unit": null,
+      "label": "Note sur le splash-up",
+      "category": "montage"
+    },
+    {
+      "key": "storm_doors_pitching_note",
+      "value": "Chacune des quatre portes peut etre attachee ou enroulee independamment. Les portes anti-tempete peuvent etre attachees aux guy lines centraux avant ou enroulees selon la meteo. Il est recommande de laisser au moins une porte sous le vent ouverte pour la ventilation sauf tres mauvais temps.",
+      "unit": null,
+      "label": "Utilisation des portes anti-tempete",
+      "category": "montage"
+    },
+    {
+      "key": "included_items",
+      "value": "Medium-Plus DCF Stuff Sack, ruban de reparation DCF 54 pouces, deux curseurs de fermeture eclair de rechange",
+      "unit": null,
+      "label": "Accessoires inclus",
+      "category": "accessoires"
+    },
+    {
+      "key": "optional_accessories",
+      "value": "Duplex Flex Poles, piquets ultralegers, Flat Groundsheets, Trekking Pole Cups et batons de 32 pouces, Pivot Duo comme alternative.",
+      "unit": null,
+      "label": "Options et accessoires complementaires",
+      "category": "accessoires"
+    },
+    {
+      "key": "washing_instructions_note",
+      "value": "Un lien vers des instructions completes de lavage des tentes et tarps en DCF est disponible sur le site.",
+      "unit": null,
+      "label": "Instructions de lavage",
+      "category": "entretien"
+    },
+    {
+      "key": "zipper_replacement_note",
+      "value": "Des videos d'instructions pour le remplacement des curseurs sont disponibles sur le site.",
+      "unit": null,
+      "label": "Remplacement des curseurs",
+      "category": "entretien"
+    },
+    {
+      "key": "wind_rating_note",
+      "value": "Aucune information de resistance au vent specifique n'est indiquee dans les donnees fournies.",
+      "unit": null,
+      "label": "Information vent",
+      "category": "identification"
+    },
+    {
+      "key": "seam_sealing_note",
+      "value": "Toutes les coutures sont scellees et les points d'ancrage sont colles ; aucune etancheification supplementaire n'est necessaire.",
+      "unit": null,
+      "label": "Etancheification des coutures",
+      "category": "entretien"
+    },
+    {
+      "key": "warranty_note",
+      "value": "Aucune information de garantie n'est specifiee sur cette page.",
+      "unit": null,
+      "label": "Garantie",
+      "category": "identification"
+    }
+  ]
+}

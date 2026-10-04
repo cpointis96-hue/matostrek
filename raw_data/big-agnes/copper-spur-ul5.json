@@ -1,0 +1,91 @@
+{
+  "source_url": "https://www.bigagnes.fr/catalogue/p/tcsul5lcn25.html",
+  "scraped_at": "2026-05-16",
+  "brand": "Big Agnes",
+  "brand_slug": "big-agnes",
+  "name": "Copper Spur UL5",
+  "slug": "copper-spur-ul5",
+  "sku": "tcsul5lcn25",
+  "price_eur": 1000,
+  "capacity": 5,
+  "season_rating": "3-season",
+  "structure_type": "freestanding",
+  "wall_type": "double",
+  "poles_required": "dedicated",
+  "tagline": "Tente ultralegère autoportante 5 places — confort groupe sans compromis sur le poids",
+  "description": "Tente ultralegère 5 places pour les randonneurs exigeants et experts du backcountry recherchant le confort sans compromettre le poids. Architecture à volume élevé signée Jake Lah, tissu HyperBead™ propriétaire, mode Fast Fly pour montage express.",
+  "history_note": "Nommée d'après la route historique Copper King Mine près de l'entrepôt d'origine de la marque.",
+  "design_credit": "Jake Lah, spécialiste en ingénierie structurelle",
+  "key_features": [
+    "Compatible Fast Fly",
+    "Tissu HyperBead™ : 6% plus léger, 50% plus résistant",
+    "DAC Green Anodizing (anodisation aluminium non toxique)",
+    "Système TipLok™ Tent Buckle",
+    "Zips double curseurs",
+    "Évent de ventilation anti-condensation",
+    "Boucles et poches de rangement intérieures",
+    "Haubans réfléchissants",
+    "Sac EZ Pack compression",
+    "Poche Quick Stash",
+    "Portes auvents style vestibule",
+    "Solution Dyed Fabrics : eau -50%, énergie -80%, produits chimiques -80%",
+    "Sans PFAS ajoutés, sans re-imperméabilisation nécessaire",
+    "Coutures polyuréthane sans solvant, sans PVC/COV"
+  ],
+  "manufacturer_claims": "HyperBead™ propriétaire : 6% plus léger, 50% plus résistant, sans PFAS, imperméabilité permanente. Solution Dyed Fabrics : eau -50%, énergie -80%. DAC Green Anodizing : sans acides toxiques.",
+  "ideal_for": "Randonneurs exigeants et experts du backcountry. Groupes jusqu'à 5 personnes. Bivouac technique 3 saisons.",
+  "care_instructions": "Stockage : parfaitement sec avant rangement, endroit frais et sec, éviter zones chaudes. Nettoyage : eau tiède et savon doux, éviter machine et eau chaude. Coutures : thermocollées ruban à l'usine, scellement supplémentaire non nécessaire. Fermetures : propres et sans sable, lubrifier.",
+  "repair_notes": "SAV France.",
+  "faq_important": "Q: Imperméabilité ? 1500mm résiste pluie soutenue. Q: Footprint ? Recommandé (protège sol, permet Fast Fly). Q: Compatible Fast Fly ? Oui.",
+  "compatible_accessories": "Footprint Copper Spur UL5 (110€, vendu séparément). Pack tente+footprint (1082.50€, économie 27.50€).",
+  "warranty_years": 2,
+  "warranty_notes": "Garantie 2 ans contre défauts fabrication.",
+  "weight": {
+    "total_g": 3250,
+    "minimum_g": 3002,
+    "fast_fly_g": 2520
+  },
+  "packed_size": {
+    "length_cm": 58,
+    "diameter_cm": 15
+  },
+  "dimensions": {
+    "floor_area_sqm": 6.0,
+    "vestibule_area_sqm": 1.6,
+    "vestibule_count": 2,
+    "door_count": 2
+  },
+  "fabrics": {
+    "fly": {
+      "material": "HyperBead™ nylon 15D ripstop 20D solution-dyed",
+      "type": "nylon",
+      "waterproofness_mm": 1500,
+      "pfas_free": true
+    },
+    "floor": {
+      "material": "HyperBead™ nylon 15D ripstop 20D solution-dyed",
+      "type": "nylon",
+      "waterproofness_mm": 1500,
+      "pfas_free": true
+    },
+    "inner": "Nylon 15D respirant ripstop 20D + mesh polyester 15D solution-dyed",
+    "seams": "Polyuréthane sans solvant, sans PVC, sans COV"
+  },
+  "poles": {
+    "type": "dedicated",
+    "material": "Aluminium DAC Pressfit 12.5mm",
+    "included": true
+  },
+  "stakes": {
+    "count": 11,
+    "type": "Dirt Dagger UL aluminium",
+    "included": true
+  },
+  "colors": ["Lichen Green"],
+  "included_items": [
+    "Sac de transport",
+    "11 sardines Dirt Dagger UL aluminium"
+  ],
+  "return_policy_days": 21,
+  "shipping_free_above_eur": 100
+}

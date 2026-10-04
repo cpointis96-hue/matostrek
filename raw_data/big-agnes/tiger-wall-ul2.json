@@ -1,0 +1,200 @@
+{
+  "extraction_meta": {
+    "source_url": "https://www.bigagnes.fr/catalogue/p/ttwul225.html",
+    "extracted_at": "2026-05-16",
+    "extractor": "claude-code"
+  },
+
+  "brand": {
+    "name": "Big Agnes",
+    "slug": "big-agnes",
+    "country": null,
+    "website_url": "https://www.bigagnes.fr"
+  },
+
+  "tent": {
+    "name": "Tiger Wall UL2",
+    "slug": "tiger-wall-ul2",
+    "tagline": null,
+    "description": "Conçue pour les aventuriers à la recherche d'un abri ultraléger sans compromis sur le confort, la Tiger Wall UL combine performance et simplicité. Grâce à son tissu exclusif HyperBead™, elle est plus légère, plus solide et plus imperméable que jamais, idéale pour les randonneurs qui comptent chaque gramme. Son architecture à haut volume et son arceau unique DAC Featherlite assurent un montage rapide, une stabilité fiable et un espace intérieur étonnamment généreux. Les grandes portes latérales et absides spacieuses facilitent l'accès et le rangement du matériel, offrant un confort optimal lors de vos trekkings de plusieurs jours. Alliant légèreté et robustesse, la Tiger Wall UL reste un modèle de référence pour les aventuriers trois saisons en quête de performance sans superflu.",
+    "key_features": "- Tissu HyperBead™ : 6% plus léger, 25% plus imperméable, 50% plus résistant vs nylon traditionnel, sans réimperméabilisation\n- Architecture arceau unique DAC Featherlite : optimise espace habitable, réduit poids, facilite montage\n- Ventilation \"Low Vent\" : basse sur portes vestibule, régule température même sous pluie\n- Deux portes et deux absides : espace indépendant par occupant\n- Parois verticales chambre : maximisent volume habitable\n- Compatible Fast Fly (double toit + footprint + arceaux + sardines)\n- Conception sans PFAS ajoutés intentionnellement\n- Coutures scellées polyuréthane sans solvant (sans PVC ni COV)\n- Système TipLok™ Tent Buckle\n- Porte Quick Stash\n- Zips double curseurs\n- Clips rapides\n- Code couleur arceau/double-toit\n- Sac EZ Pack (ouverture longitudinale + compression)\n- Haubans réfléchissants prédécoupés\n- Rangements intérieurs : boucles multiples, 2 grandes poches plafond, 2 poches latérales\n- Solution Dyed Fabrics : réduction eau 50%, énergie 80%, produits chimiques 80%, émissions CO2",
+    "manufacturer_claims": "Tissu HyperBead™ propriétaire : imperméabilité intégrée au niveau moléculaire, dure toute la vie du produit, 100% sans PFAS, 6% plus léger, 25% plus imperméable et 50% plus solide que le nylon traditionnel. Solution Dyed Fabrics : pigments couleur intégrés dans la fibre avant extrusion.",
+    "ideal_for": "Amateurs de bivouac et de trekking ultraléger. Randonneurs qui comptent chaque gramme et souhaitent de la performance sans superflu. Utilisation 3 saisons.",
+    "comparison_notes": "La Tiger Wall UL est positionnée comme alternative ultralight à la Copper Spur UL2 (600€, autoportante). La Copper Spur UL2 est autoportante ; la Tiger Wall UL2 est semi-autoportante (nécessite piquets côté pieds). La Tiger Wall UL2 est plus légère (1130g vs 1370g pour Copper Spur UL2).",
+    "care_instructions": "Stockage : ranger parfaitement sèche et exempte de débris. Varier la manière de plier à chaque fois pour éviter les plis permanents. Conserver dans un endroit frais et sec. Éviter les zones chaudes (coffre de voiture, grenier). Ne jamais ranger humide (risque de moisissures, odeurs, fuites et délaminage).\n\nNettoyage léger : éponge + eau tiède (jamais chaude).\n\nNettoyage en profondeur : bassine/baignoire, immerger, agiter doucement, vider, répéter jusqu'à eau claire, appliquer nettoyant doux (Nikwax Tech Wash recommandé) à l'éponge, rincer soigneusement, sécher à l'air libre, vérifier sécheresse complète avant rangement.\n\nÀ éviter : machine à laver, nettoyage à sec, eau chaude, javel, lessives, liquide vaisselle, exposition prolongée aux UV.\n\nÉtanchéité coutures : pré-étanchéifiées en usine (ruban thermocollé). Inutile d'appliquer un joint liquide sauf besoin spécifique.\n\nFermetures éclairs : garder propres sans sable. Lubrifiant nettoyant type Gear Aid recommandé.",
+    "repair_notes": "Manchon de réparation rapide pour arceau inclus dans la boîte. Guides disponibles sur le site : 'Comment laver sa tente' et 'Comment réparer sa tente'. Garantie 2 ans, SAV basé en France pour organisation de réparation ou remplacement.",
+    "faq_important": "Q : Quelle est l'imperméabilité ? R : 1500mm sur double toit et sol. Un revêtement de 1500mm résiste à une colonne d'eau de 1500mm pendant plus d'une minute avant qu'une seule goutte ne traverse. Correspond à l'intensité d'une pluie soutenue.\n\nQ : Un footprint est-il recommandé ? R : Oui. Protège le sol, le garde propre et sec, préserve le tissu des frottements, prolonge la durée de vie, et permet la configuration Fast Fly ultralégère.\n\nQ : Combien de matelas rentrent ? R : Deux matelas jusqu'à 53cm de large.\n\nQ : Quelle est la durée de vie ? R : Dépend de l'utilisation. Principal ennemi : rayonnement UV. Bien entretenue, conditions normales : de nombreuses années.\n\nQ : Compatible arceaux/footprint Bikepack ? R : Oui, compatibles. Compatibilité assurée uniquement entre deux versions de même année et même nombre de places.",
+    "compatible_accessories": "FOOTPRINT Tiger Wall UL2 (80€). Pack Tiger Wall UL2 + Footprint (610€, économie 20€). Footprint recommandé pour protection sol et configuration Fast Fly. Capacité intérieure : 2 matelas jusqu'à 53cm de large.",
+    "warranty_notes": "Garantie 2 ans contre défauts de fabrication ou casses anormales. SAV basé en France. Traitement express sans intermédiaire.",
+    "capacity": 2,
+    "season_rating": "3-season",
+    "structure_type": "semi-freestanding",
+    "wall_type": "double",
+    "poles_required": "dedicated",
+    "poles_included": true,
+    "geometry_name": null,
+    "geometry_patented": null,
+    "door_count": 2,
+    "vestibule_count": 2,
+    "vent_count": null,
+    "interior_pockets": 4,
+    "guy_lines_max": null,
+    "stake_points_max": null,
+    "floor_length_cm": 218,
+    "floor_width_cm": 119.5,
+    "floor_width_head_cm": 132,
+    "floor_width_foot_cm": 107,
+    "floor_area_sqm": 2.6,
+    "floor_bathtub_height_cm": null,
+    "floor_height_adjustable": null,
+    "peak_height_inner_cm": 99,
+    "peak_height_fly_cm": 46,
+    "vestibule_area_sqm": 0.7,
+    "vestibule_depth_cm": 66,
+    "fly_length_cm": null,
+    "fly_width_cm": null,
+    "fly_fabric": "Nylon ripstop 15D recyclé HyperBead™",
+    "fly_fabric_type": "nylon",
+    "fly_waterproofness_mm": 1500,
+    "fly_pfas_free": true,
+    "floor_fabric": "Nylon ripstop 15D recyclé HyperBead™",
+    "floor_fabric_type": "nylon",
+    "floor_waterproofness_mm": 1500,
+    "inner_fabric": "Nylon ripstop 15D recyclé respirant + mesh polyester",
+    "inner_mesh": true,
+    "seam_construction": "hot-bonded",
+    "seam_waterproof": true,
+    "zipper_fly": "double curseurs",
+    "zipper_inner": "double curseurs",
+    "magnetic_toggles": null,
+    "pole_diameter_mm": 8.7,
+    "pole_sleeve_material": null,
+    "pole_splint_included": true,
+    "pole_jack_included": null,
+    "tie_out_count_perimeter": null,
+    "tie_out_count_midpanel": null,
+    "tie_out_count_apex": null,
+    "ladder_locks": null,
+    "guyline_brand": null,
+    "fly_first_pitch": null,
+    "inner_first_pitch": null,
+    "freestanding_no_stakes": null,
+    "protected_doorways": null,
+    "full_coverage_fly": null,
+    "tensioned_floor": null,
+    "groundsheet_required": false,
+    "groundsheet_recommended": true,
+    "trekking_pole_support": null,
+    "vestibule_pole_support": null,
+    "reflective_elements": true,
+    "manufacture_country": null,
+    "stakes_included": 9,
+    "stakes_type": "Dirt Dagger UL aluminium ultraléger",
+    "stuff_sack_included": true,
+    "repair_kit_included": true,
+    "carry_bag_included": true,
+    "price_usd": null,
+    "price_eur": 550,
+    "product_url": "https://www.bigagnes.fr/catalogue/p/ttwul225.html",
+    "warranty_years": 2,
+    "warranty_notes": "Garantie 2 ans contre défauts de fabrication ou casses anormales. SAV basé en France, traitement express sans intermédiaire."
+  },
+
+  "variants": [
+    {
+      "variant_name": "Tiger Wall UL2 - 2 places",
+      "variant_slug": "tiger-wall-ul2-2p",
+      "pole_option": null,
+      "floor_option": null,
+      "inner_option": null,
+      "color": "Mercury/Evening Primrose",
+      "weight_tent_g": 1130,
+      "weight_fly_g": null,
+      "weight_inner_g": null,
+      "weight_poles_g": null,
+      "weight_stakes_g": null,
+      "weight_stuff_sack_g": null,
+      "weight_typical_g": 992,
+      "weight_typical_notes": "Poids minimum : chambre + double toit + arceaux (sans sardines ni sac de transport)",
+      "packed_length_cm": 46,
+      "packed_diameter_cm": 13,
+      "price_usd": null,
+      "price_eur": 550,
+      "in_stock": null
+    }
+  ],
+
+  "specs_extra": [
+    {
+      "key": "weight_fast_fly_g",
+      "value": "657",
+      "unit": "g",
+      "label": "Poids Fast Fly",
+      "category": "poids"
+    },
+    {
+      "key": "hyperbead_claims",
+      "value": "6% plus léger, 25% plus imperméable, 50% plus résistant que le nylon traditionnel. Ne nécessite pas de réimperméabilisation. Imperméabilité intégrée au niveau moléculaire.",
+      "unit": null,
+      "label": "Technologie HyperBead™",
+      "category": "materiaux"
+    },
+    {
+      "key": "solution_dyed",
+      "value": "Pigments couleur intégrés dans la fibre avant extrusion. Réduction : eau -50%, énergie -80%, produits chimiques -80%, émissions CO2 vs teinture traditionnelle.",
+      "unit": null,
+      "label": "Solution Dyed Fabrics",
+      "category": "materiaux"
+    },
+    {
+      "key": "dac_green_anodizing",
+      "value": "Procédé d'anodisation sans acide nitrique ni acide phosphorique.",
+      "unit": null,
+      "label": "DAC Green Anodizing",
+      "category": "materiaux"
+    },
+    {
+      "key": "matelas_largeur_max_cm",
+      "value": "53",
+      "unit": "cm",
+      "label": "Largeur max matelas",
+      "category": "dimensions"
+    },
+    {
+      "key": "vestibule_total_sqm",
+      "value": "1.4",
+      "unit": "m²",
+      "label": "Surface vestibule totale (2 × 0.7 m²)",
+      "category": "dimensions"
+    },
+    {
+      "key": "low_vent",
+      "value": "Ventilation basse sur les portes du vestibule. Augmente le flux d'air en prolongeant le vestibule, minimise le givrage par temps pluvieux.",
+      "unit": null,
+      "label": "Ventilation Low Vent",
+      "category": "design"
+    }
+  ],
+
+  "extraction_notes": {
+    "fields_not_found": [
+      "floor_length_cm", "floor_width_cm", "floor_width_head_cm", "floor_width_foot_cm",
+      "floor_bathtub_height_cm", "peak_height_inner_cm", "peak_height_fly_cm",
+      "vestibule_depth_cm", "fly_length_cm", "fly_width_cm",
+      "guy_lines_max", "stake_points_max",
+      "tie_out_count_perimeter", "tie_out_count_midpanel", "tie_out_count_apex",
+      "ladder_locks", "guyline_brand", "pole_sleeve_material",
+      "fly_first_pitch", "inner_first_pitch", "freestanding_no_stakes",
+      "protected_doorways", "full_coverage_fly", "tensioned_floor", "floor_height_adjustable",
+      "magnetic_toggles", "geometry_name", "geometry_patented",
+      "vestibule_pole_support", "trekking_pole_support",
+      "manufacture_country", "price_usd",
+      "weight_fly_g", "weight_inner_g", "weight_poles_g", "weight_stakes_g", "weight_stuff_sack_g"
+    ],
+    "ambiguous_fields": [
+      "Dimensions intérieures (longueur/largeur/hauteur) : présentes uniquement sous forme d'image/schéma sur la page, valeurs numériques non extractibles depuis le texte."
+    ],
+    "new_columns_to_create": [],
+    "comments": "ALERTE : URL ttwul225.html correspond à la Tiger Wall UL2 (550€), pas à la Tiger Wall 2 Platinum (800€) comme indiqué par l'utilisateur. Importé selon la page réelle. interior_pockets=4 car page mentionne explicitement '2 grandes poches plafond + 2 poches latérales'."
+  }
+}

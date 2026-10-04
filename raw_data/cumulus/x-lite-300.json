@@ -1,0 +1,137 @@
+{
+  "extraction_meta": {
+    "source_url": "https://cumulus.equipment/fr/eu/c/sacs-de-couchage-en-duvet",
+    "extracted_at": "2026-05-17",
+    "extractor": "codex",
+    "source_type": "user_requested_multi_source"
+  },
+  "brand": {
+    "name": "Cumulus",
+    "slug": "cumulus",
+    "country": "Poland",
+    "website_url": "https://cumulus.equipment"
+  },
+  "sleeping_bag": {
+    "name": "X-LITE 300",
+    "slug": "x-lite-300",
+    "series": "X-Lite",
+    "product_type": "down sleeping bag",
+    "subtitle": "extremely light 2-3 season down sleeping bag",
+    "season_positioning": "2-3 season",
+    "shape": "mummy",
+    "description": "Cumulus presents the X-Lite series as the lightest sleeping bags in the world by weight-to-warmth ratio. The X-LITE 300 combines 19 g/m2 Toray Airtastic fabric, a slim fit, a 3 mm 2/3 YKK zip, a shark-fin footbox and a 3D hood with ethically sourced 900 FP Polish goose down. The design is deliberately minimalist but intended to remain comfortable and highly compressible.",
+    "key_features": "- 465 g total weight\n- 300 g of 900 FP ethically sourced Polish goose down\n- Comfort 2 C / limit -4 C\n- Toray Airtastic 19 g/m2 shell and liner\n- 3 mm YKK 2/3 zip with 2 self-locking sliders\n- Trapezoidal chambers\n- Differential cut\n- 3D hood with 2 drawcords\n- Anatomical shark-fin footbox\n- Customizable via configurator",
+    "manufacturer_claims": "Weight reduction is presented as Cumulus's main mission. The bag is marketed as extremely light, compact, and intended for users who want compact gear without compromising on performance.",
+    "ideal_for": "Fast-paced users, compact gear focused travel, trail running, ultramarathons, bikepacking, sport rock climbing.",
+    "comparison_notes": "Observed prices and lead times differ by page context and locale. No extreme rating or dimensional block was confirmed from the current opened page capture.",
+    "care_instructions": null,
+    "repair_notes": null,
+    "faq_important": null,
+    "compatible_accessories": null,
+    "warranty_notes": "Warranty name shown as Lifetime Experience.",
+    "temperature_comfort_c": 2,
+    "temperature_limit_c": -4,
+    "temperature_extreme_c": null,
+    "weight_g": 465,
+    "down_weight_g": 300,
+    "unfilled_weight_g": null,
+    "fill_power_fp": 900,
+    "fill_material": "ethically sourced Polish goose down",
+    "fill_origin": null,
+    "ethically_sourced": true,
+    "fill_distribution": null,
+    "fill_proportions_default": "55/45 - FRONT/BACK",
+    "shell_fabric": "Toray Airtastic 19 g/m2",
+    "shell_fabric_color_default": "Fall Leaf",
+    "liner_fabric": "Toray Airtastic 19 g/m2",
+    "liner_fabric_color_default": "Fall Leaf",
+    "fabric_denier": null,
+    "fabric_structure": null,
+    "fabric_finish": null,
+    "fabric_composition": null,
+    "zipper_brand": "YKK",
+    "zipper_spec": "3 mm 2/3 length with 2 self-locking sliders",
+    "zipper_side_options": "right|left",
+    "hood_type": "3D hood",
+    "footbox_type": "anatomical shark-fin footbox",
+    "chamber_construction": "trapezoidal chambers",
+    "chamber_count": null,
+    "differential_cut": true,
+    "maximum_user_height_cm": null,
+    "length_cm": null,
+    "width_top_cm": null,
+    "width_bottom_cm": null,
+    "stuffsack_height_cm": null,
+    "stuffsack_diameter_cm": null,
+    "stuffsack_volume_l": null,
+    "made_in": "Poland",
+    "warranty_name": "Lifetime Experience",
+    "lead_time_product": "2-3 business days",
+    "lead_time_configurator": "3-5 weeks",
+    "price_eur": 439,
+    "price_eur_alt": 439,
+    "price_pln": 1739,
+    "product_url": "https://cumulus.equipment/en/gb/p/down-sleeping-bag-x-lite-300",
+    "category_url": "https://cumulus.equipment/fr/eu/c/sacs-de-couchage-en-duvet",
+    "configurator_url": "https://cumulus.equipment/fr/configurator/spiwor-puchowy-x-lite-300-custom",
+    "current_status": "current model listed on product page, category page, and configurator"
+  },
+  "specs_extra": [
+    {
+      "key": "configurator_default_outer_fabric",
+      "value": "Toray Airtastic 19g Fall Leaf",
+      "unit": null,
+      "label": "Tissu externe configurateur",
+      "category": "customization"
+    },
+    {
+      "key": "configurator_default_inner_fabric",
+      "value": "Toray Airtastic 19g Fall Leaf",
+      "unit": null,
+      "label": "Tissu interne configurateur",
+      "category": "customization"
+    },
+    {
+      "key": "configurator_default_length",
+      "value": "M",
+      "unit": null,
+      "label": "Longueur configurateur",
+      "category": "customization"
+    },
+    {
+      "key": "configurator_default_width",
+      "value": "Standard",
+      "unit": null,
+      "label": "Largeur configurateur",
+      "category": "customization"
+    },
+    {
+      "key": "configurator_default_zipper_side",
+      "value": "left",
+      "unit": null,
+      "label": "Cote du zip configurateur",
+      "category": "customization"
+    },
+    {
+      "key": "configurator_visible_text_unmapped",
+      "value": "Quantum pro",
+      "unit": null,
+      "label": "Texte visible non mappe",
+      "category": "customization"
+    },
+    {
+      "key": "activities",
+      "value": "trail running|ultramarathons|bikepacking|sport rock climbing",
+      "unit": null,
+      "label": "Activites explicitement citees",
+      "category": "usage"
+    },
+    {
+      "key": "source_notes",
+      "value": "Observed prices differ by locale and page context. The visible page did not expose a full dimensional block, packed size, or extreme rating, so those remain null.",
+      "unit": null,
+      "label": "Notes sources",
+      "category": "source"
+    }
+  ]
+}

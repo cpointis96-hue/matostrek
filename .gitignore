@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+.env.*
+*.db
+*.db-*
+*.sqlite*
+.DS_Store
+.playwright-cli/
+playwright-report/
+test-results/
+Images/
+.claude/
+.codex/

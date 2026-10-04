@@ -1,0 +1,144 @@
+{
+  "extraction_meta": {
+    "source_url": "https://cumulus.equipment/fr/eu/c/sacs-de-couchage-en-duvet",
+    "extracted_at": "2026-05-17",
+    "extractor": "codex",
+    "source_type": "user_requested_multi_source"
+  },
+  "brand": {
+    "name": "Cumulus",
+    "slug": "cumulus",
+    "country": "Poland",
+    "website_url": "https://cumulus.equipment"
+  },
+  "sleeping_bag": {
+    "name": "X-LITE 200",
+    "slug": "x-lite-200",
+    "series": "X-Lite",
+    "product_type": "down sleeping bag",
+    "subtitle": "extremely light 2 season down sleeping bag",
+    "season_positioning": "2 season",
+    "shape": "close fit mummy shape",
+    "description": "The X-LITE 200 is presented as a minimalist, extremely light down sleeping bag focused on maximum warmth-to-weight ratio and very small packed size. Cumulus emphasizes ultralight Toray Airtastic fabric, 900 FP Polish goose down, a slim shape, the anatomical shark-fin footbox, H-shaped chambers and compact warmth for fast-and-light use.",
+    "key_features": "- 350 g total weight\n- 200 g of 900 FP ethically sourced Polish goose down\n- Comfort 4 C / limit 0 C / extreme -15 C\n- Toray Airtastic 19 g/m2 shell and liner\n- 7D ripstop, DWR finish, 100% nylon\n- 3 mm YKK 2/3 zip with 2 self-locking sliders and insulated tube\n- H-shaped chamber design\n- Differential cut\n- Stuffsack and storage sack included\n- Customizable via configurator",
+    "manufacturer_claims": "Cumulus positions the X-Lite series as world-leading in weight-to-warmth ratio, designed to remove every unnecessary gram while keeping real field usability and compressibility.",
+    "ideal_for": "Fast-paced trips, users prioritizing compact gear, trail running, ultramarathons, bikepacking, sport rock climbing.",
+    "comparison_notes": "One block positions the product as 2 season while another visible feature block mentions 2-3 season. Current direct pages and indexed product extraction also show different locale-dependent prices and lead times.",
+    "care_instructions": null,
+    "repair_notes": null,
+    "faq_important": null,
+    "compatible_accessories": null,
+    "warranty_notes": "Warranty name shown as Lifetime Experience.",
+    "temperature_comfort_c": 4,
+    "temperature_limit_c": 0,
+    "temperature_extreme_c": -15,
+    "weight_g": 350,
+    "down_weight_g": 200,
+    "unfilled_weight_g": 150,
+    "fill_power_fp": 900,
+    "fill_material": "ethically sourced Polish goose down",
+    "fill_origin": "Poland",
+    "ethically_sourced": true,
+    "fill_distribution": null,
+    "fill_proportions_default": "55/45 - FRONT/BACK",
+    "shell_fabric": "Toray Airtastic 19 g/m2",
+    "shell_fabric_color_default": "Sunburn",
+    "liner_fabric": "Toray Airtastic 19 g/m2",
+    "liner_fabric_color_default": "Sunburn",
+    "fabric_denier": "7D",
+    "fabric_structure": "ripstop",
+    "fabric_finish": "DWR finish",
+    "fabric_composition": "100% nylon",
+    "zipper_brand": "YKK",
+    "zipper_spec": "3 mm 2/3 length with 2 self-locking sliders",
+    "zipper_side_options": "right|left",
+    "hood_type": null,
+    "footbox_type": "anatomical shark-fin footbox",
+    "chamber_construction": "H-shaped chamber design",
+    "chamber_count": 28,
+    "differential_cut": true,
+    "maximum_user_height_cm": 185,
+    "length_cm": 180,
+    "width_top_cm": 77,
+    "width_bottom_cm": 42,
+    "stuffsack_height_cm": 18,
+    "stuffsack_diameter_cm": 11,
+    "stuffsack_volume_l": 1.7,
+    "made_in": "Poland",
+    "warranty_name": "Lifetime Experience",
+    "lead_time_product": "6-7 business days",
+    "lead_time_configurator": "3-5 weeks",
+    "price_eur": 375,
+    "price_eur_alt": 305,
+    "price_pln": null,
+    "product_url": "https://cumulus.equipment/eu_en/down-sleeping-bag-x-lite-200.html",
+    "category_url": "https://cumulus.equipment/fr/eu/c/sacs-de-couchage-en-duvet",
+    "configurator_url": "https://cumulus.equipment/en/gr/configurator/down-sleeping-bag-x-lite-200-custom",
+    "current_status": "current model listed via product page, category page, and configurator with locale-dependent price differences"
+  },
+  "specs_extra": [
+    {
+      "key": "configurator_default_outer_fabric",
+      "value": "Toray Airtastic 19g Sunburn",
+      "unit": null,
+      "label": "Tissu externe configurateur",
+      "category": "customization"
+    },
+    {
+      "key": "configurator_default_inner_fabric",
+      "value": "Toray Airtastic 19g Sunburn",
+      "unit": null,
+      "label": "Tissu interne configurateur",
+      "category": "customization"
+    },
+    {
+      "key": "configurator_default_length",
+      "value": "M",
+      "unit": null,
+      "label": "Longueur configurateur",
+      "category": "customization"
+    },
+    {
+      "key": "configurator_default_width",
+      "value": "Standard",
+      "unit": null,
+      "label": "Largeur configurateur",
+      "category": "customization"
+    },
+    {
+      "key": "configurator_default_zipper_side",
+      "value": "left",
+      "unit": null,
+      "label": "Cote du zip configurateur",
+      "category": "customization"
+    },
+    {
+      "key": "configurator_visible_text_unmapped",
+      "value": "Quantum pro",
+      "unit": null,
+      "label": "Texte visible non mappe",
+      "category": "customization"
+    },
+    {
+      "key": "included_accessories",
+      "value": "stuffsack|storage sack",
+      "unit": null,
+      "label": "Accessoires inclus",
+      "category": "features"
+    },
+    {
+      "key": "activities",
+      "value": "trail running|ultramarathons|bikepacking|sport rock climbing",
+      "unit": null,
+      "label": "Activites explicitement citees",
+      "category": "usage"
+    },
+    {
+      "key": "source_notes",
+      "value": "Richer technical values including extreme temperature, dimensions, chamber count, accessory inclusion, composition, and DWR finish were visible in indexed official product extraction when direct rendering was incomplete. Prices vary by locale and page context and are preserved as observed.",
+      "unit": null,
+      "label": "Notes sources",
+      "category": "source"
+    }
+  ]
+}

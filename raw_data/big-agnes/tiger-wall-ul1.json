@@ -1,0 +1,93 @@
+{
+  "source_url": "https://www.bigagnes.fr/catalogue/p/ttwul125.html",
+  "scraped_at": "2026-05-16",
+  "brand": "Big Agnes",
+  "brand_slug": "big-agnes",
+  "name": "Tiger Wall UL1",
+  "slug": "tiger-wall-ul1",
+  "sku": "ttwul125",
+  "price_eur": 500,
+  "capacity": 1,
+  "season_rating": "3-season",
+  "structure_type": "semi-freestanding",
+  "wall_type": "double",
+  "poles_required": "dedicated",
+  "tagline": "Abri ultraléger monopersonne alliant performance et simplicité",
+  "description": "Abri de randonnée ultraléger monopersonne combinant performance et simplicité. Tissu HyperBead™, grande porte latérale avec auvent spacieux, conception compacte pour les treks multi-jours.",
+  "key_features": [
+    "Système de ventilation Low Vent",
+    "Poches de rangement intérieures",
+    "Fermeture Quick Stash pour porte",
+    "Zips double curseurs",
+    "Boucles intérieures",
+    "Système TipLok™ Tent Buckle",
+    "Clips rapides",
+    "Système de montage code couleur",
+    "Sac EZ Pack compression",
+    "Haubans réfléchissants",
+    "Compatible Fast Fly",
+    "Tissu HyperBead™ nylon recyclé 6% plus léger, 25% plus imperméable, 50% plus résistant",
+    "Solution Dyed Fabrics : eau -50%, énergie -80%, produits chimiques -80%",
+    "DAC Green Anodizing",
+    "1 matelas max 51cm de large"
+  ],
+  "manufacturer_claims": "HyperBead™ : 6% plus léger, 25% plus imperméable, 50% plus solide vs nylon traditionnel. Solution Dyed Fabrics. DAC Green Anodizing.",
+  "ideal_for": "Randonneurs ultralégers solo. Treks multi-jours 3 saisons.",
+  "care_instructions": "Stockage : sec sans débris, varier le pliage, endroit frais et sec. Nettoyage : éponge douce eau tiède, bassine savon doux. Éviter : eau chaude, javel, détergent, UV prolongés. Coutures : pré-scellées usine, réappliquer seulement si nécessaire. Fermetures : lubrifier Gear Aid.",
+  "repair_notes": "Manchon de réparation arceau inclus. SAV France.",
+  "faq_important": "Q: Imperméabilité ? 1500mm résiste pluie soutenue. Q: Footprint ? Recommandé, permet Fast Fly. Q: Combien de matelas ? 1 jusqu'à 51cm. Q: Garantie ? 2 ans défauts fabrication.",
+  "compatible_accessories": "Footprint Tiger Wall UL1 (70€, vendu séparément). Pack tente+footprint (552.50€).",
+  "warranty_years": 2,
+  "warranty_notes": "Garantie 2 ans contre défauts fabrication. SAV France.",
+  "weight": {
+    "total_g": 964,
+    "minimum_g": 824,
+    "fast_fly_g": 652
+  },
+  "packed_size": {
+    "length_cm": 43,
+    "diameter_cm": 14
+  },
+  "dimensions": {
+    "floor_area_sqm": 1.8,
+    "vestibule_area_sqm": 0.7,
+    "vestibule_count": 2,
+    "door_count": 2
+  },
+  "fabrics": {
+    "fly": {
+      "material": "Nylon ripstop 15D recyclé HyperBead™",
+      "type": "nylon",
+      "waterproofness_mm": 1500,
+      "pfas_free": true
+    },
+    "floor": {
+      "material": "Nylon ripstop 15D recyclé HyperBead™",
+      "type": "nylon",
+      "waterproofness_mm": 1500,
+      "pfas_free": true
+    },
+    "inner": "Nylon ripstop 15D recyclé + mesh polyester respirant",
+    "seams": "Polyuréthane sans solvant (sans PVC ni COV)"
+  },
+  "poles": {
+    "type": "dedicated",
+    "material": "Aluminium DAC Featherlite NFL 8.7mm",
+    "count": 1,
+    "included": true
+  },
+  "stakes": {
+    "count": 9,
+    "type": "Dirt Dagger UL aluminium ultraléger",
+    "included": true
+  },
+  "colors": ["Mercury/Evening Primrose"],
+  "included_items": [
+    "Sac de transport",
+    "9 sardines Dirt Dagger UL aluminium",
+    "Manchon de réparation arceau",
+    "Haubans réfléchissants"
+  ],
+  "return_policy_days": 21,
+  "shipping_free_above_eur": 100
+}

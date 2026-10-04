@@ -1,0 +1,559 @@
+{
+  "extraction_meta": {
+    "source_url": "https://zpacks.com/products/pivot-duo-tent",
+    "extracted_at": "2026-05-17",
+    "extractor": "codex",
+    "source_type": "user_provided"
+  },
+  "brand": {
+    "name": "Zpacks",
+    "slug": "zpacks",
+    "country": "USA",
+    "website_url": "https://zpacks.com"
+  },
+  "tent": {
+    "name": "Pivot Duo Tent",
+    "slug": "pivot-duo-tent",
+    "tagline": "Tente deux places ultralegere Zpacks concue pour offrir un maximum d'espace reel a deux grands matelas.",
+    "description": "La Pivot Duo Tent est une tente deux places ultralegere pensee pour les couples qui veulent un abri spacieux sans compromis sur le poids. Son architecture exploite intelligemment deux batons de randonnee de 52 pouces et un mat d'extremite de 32 pouces inclus afin de maximiser le volume utile, avec assez d'espace pour deux randonneurs, deux matelas wide long et la possibilite de s'asseoir droit sans frotter le plafond. Le sol symetrique et les portes en miroir permettent de dormir dans un sens ou dans l'autre selon le vent et la pente du terrain.",
+    "key_features": "- Construction en Dyneema(R) Composite Fabric impermeable, durable et sans PFAS\n- Disponible en deux constructions de tissus : Lite avec canopy 0.55 oz/sqyd DCF et sol 0.75 oz/sqyd DCF, Standard avec canopy 0.75 oz/sqyd DCF et sol 1.0 oz/sqyd DCF\n- Montage avec deux batons de randonnee de 52 pouces (132 cm), un mat de tente de 32 pouces (81 cm) inclus et 8 piquets non inclus\n- Un troisieme baton de randonnee peut remplacer le mat de 32 pouces pour economiser du poids\n- Deux portes anti-tempete avec attaches magnetiques et events au sommet pour la ventilation\n- Grandes et petites portes ouvrables independamment pour la vue, l'aeration ou l'espace vestibule\n- Moustiquaire integrale ultralegere 0.67 oz/sqyd et larges entrees en L des deux cotes\n- Sol baignoire a murs hauts et decales du perimetre pour limiter splash-up et condensation\n- Parois abruptes obtenues par deux batons decales de 52 pouces et un mat d'extremite de 32 pouces pour beaucoup d'espace a la tete et aux pieds\n- Convient confortablement a deux randonneurs jusqu'a environ 1.95 m\n- Empreinte compacte pour une vraie tente deux places facile a caser sur petits emplacements\n- Poches mesh, petites boucles aux sommets, zips YKK #3, ruban de reparation et curseurs de rechange inclus\n- Coutures scellees et points d'ancrage colles, sans seam sealing a realiser",
+    "manufacturer_claims": "Zpacks presente la Pivot Duo comme la tente deux places full-featured la plus legere et la plus spacieuse au monde capable d'accueillir deux matelas wide long. La marque met en avant une architecture innovante maximisee autour de deux batons de 52 pouces et d'un mat d'extremite de 32 pouces pour offrir une habitabilite de premier plan.",
+    "ideal_for": "Couples de randonneurs ultralegers voulant une tente non autoportante deux places tres spacieuse, capable d'accueillir deux grands matelas et offrant un bon volume utile pour dormir dans les deux sens selon les conditions.",
+    "comparison_notes": "Les variantes Lite privilegient le poids minimal avec des grammages DCF plus faibles. Les variantes Standard ajoutent davantage d'opacite et de robustesse via des tissus plus lourds au niveau de la canopy et du sol.",
+    "care_instructions": "Un lien vers des instructions de lavage est disponible sur le site.",
+    "repair_notes": "Un ruban de reparation DCF de 54 pouces et deux curseurs de fermeture eclair de rechange sont inclus. Des informations de remplacement des curseurs sont disponibles sur le site.",
+    "faq_important": "Q : Quels supports sont necessaires ? R : Deux batons de randonnee de 52 pouces (132 cm), 8 piquets non inclus, et un mat de 32 pouces (81 cm) inclus ; un troisieme baton peut remplacer ce mat pour economiser du poids.\n\nQ : Les coutures doivent-elles etre etancheifiees ? R : Non, elles sont deja scellees et les points d'ancrage sont colles.\n\nQ : A quelle taille de randonneur la tente convient-elle ? R : A une paire de randonneurs jusqu'a environ 1.95 m.\n\nQ : Faut-il un tapis de sol separe ? R : Non, le sol est annonce assez durable, avec Flat Groundsheet en option.\n\nQ : Quelle est la garantie ? R : Garantie limitee de deux ans contre les defauts de materiaux ou de fabrication.",
+    "compatible_accessories": "8 piquets ultralegers, troisieme baton de randonnee a la place du mat de 32 pouces, Flat Groundsheets, Gear Nest, Trekking pole cup avec mat de 32 pouces supplementaire pour les grands gabarits en solo.",
+    "warranty_notes": "Garantie limitee de deux ans contre les defauts de materiaux ou de fabrication. Voir la politique retour / garantie Zpacks pour les details.",
+    "capacity": 2,
+    "season_rating": null,
+    "structure_type": "non-freestanding",
+    "wall_type": "single",
+    "poles_required": "trekking",
+    "poles_included": true,
+    "geometry_name": "symmetrical floor with mirrored doors",
+    "geometry_patented": null,
+    "door_count": 2,
+    "vestibule_count": 2,
+    "vent_count": 2,
+    "interior_pockets": null,
+    "guy_lines_max": 8,
+    "stake_points_max": 8,
+    "floor_length_cm": 214,
+    "floor_width_cm": 127,
+    "floor_width_head_cm": null,
+    "floor_width_foot_cm": null,
+    "floor_area_sqm": 2.7,
+    "floor_bathtub_height_cm": 15.25,
+    "floor_height_adjustable": null,
+    "peak_height_inner_cm": 132,
+    "peak_height_fly_cm": 132,
+    "vestibule_area_sqm": 0.74,
+    "vestibule_depth_cm": 61,
+    "fly_length_cm": 249,
+    "fly_width_cm": 249,
+    "fly_fabric": "Dyneema(R) Composite Fabric 0.55 oz/sqyd ou 0.75 oz/sqyd selon variante",
+    "fly_fabric_type": "DCF",
+    "fly_waterproofness_mm": null,
+    "fly_pfas_free": true,
+    "floor_fabric": "Dyneema(R) Composite Fabric 0.75 oz/sqyd ou 1.0 oz/sqyd selon variante",
+    "floor_fabric_type": "DCF",
+    "floor_waterproofness_mm": null,
+    "inner_fabric": "Moustiquaire ultralegere 0.67 oz/sqyd",
+    "inner_mesh": true,
+    "seam_construction": "taped",
+    "seam_waterproof": true,
+    "zipper_fly": "YKK #3",
+    "zipper_inner": "Grandes entrees moustiquaire en L des deux cotes",
+    "magnetic_toggles": true,
+    "pole_diameter_mm": null,
+    "pole_sleeve_material": null,
+    "pole_splint_included": false,
+    "pole_jack_included": false,
+    "tie_out_count_perimeter": null,
+    "tie_out_count_midpanel": null,
+    "tie_out_count_apex": null,
+    "ladder_locks": null,
+    "guyline_brand": "Z-Line 1.6 mm",
+    "fly_first_pitch": null,
+    "inner_first_pitch": null,
+    "freestanding_no_stakes": false,
+    "protected_doorways": true,
+    "full_coverage_fly": true,
+    "tensioned_floor": true,
+    "groundsheet_required": false,
+    "groundsheet_recommended": true,
+    "trekking_pole_support": true,
+    "vestibule_pole_support": false,
+    "reflective_elements": false,
+    "manufacture_country": "USA",
+    "stakes_included": 0,
+    "stakes_type": null,
+    "stuff_sack_included": true,
+    "repair_kit_included": true,
+    "carry_bag_included": false,
+    "price_usd": 849,
+    "price_eur": null,
+    "product_url": "https://zpacks.com/products/pivot-duo-tent",
+    "warranty_years": 2
+  },
+  "variants": [
+    {
+      "variant_name": "Blue w/ Lite Floor",
+      "variant_slug": "pivot-duo-tent-blue-lite-floor",
+      "pole_option": "2 trekking poles adjusted to 52 inches (132 cm) plus 1 included 32 inch (81 cm) tent pole",
+      "floor_option": "Lite floor (.75 oz/sqyd DCF)",
+      "inner_option": null,
+      "color": "Blue",
+      "weight_tent_g": 550,
+      "weight_fly_g": null,
+      "weight_inner_g": null,
+      "weight_poles_g": 28,
+      "weight_stakes_g": null,
+      "weight_stuff_sack_g": 9,
+      "weight_typical_g": 550,
+      "weight_typical_notes": "Displayed total tent weight including guy lines, sewn in linelocs, taped seams, and the included 32 inch tent pole.",
+      "packed_length_cm": 30.55,
+      "packed_diameter_cm": 12.7,
+      "price_usd": 849,
+      "price_eur": null,
+      "in_stock": null
+    },
+    {
+      "variant_name": "Olive Drab w/ Lite Floor",
+      "variant_slug": "pivot-duo-tent-olive-drab-lite-floor",
+      "pole_option": "2 trekking poles adjusted to 52 inches (132 cm) plus 1 included 32 inch (81 cm) tent pole",
+      "floor_option": "Lite floor (.75 oz/sqyd DCF)",
+      "inner_option": null,
+      "color": "Olive Drab",
+      "weight_tent_g": 550,
+      "weight_fly_g": null,
+      "weight_inner_g": null,
+      "weight_poles_g": 28,
+      "weight_stakes_g": null,
+      "weight_stuff_sack_g": 9,
+      "weight_typical_g": 550,
+      "weight_typical_notes": "Displayed total tent weight including guy lines, sewn in linelocs, taped seams, and the included 32 inch tent pole.",
+      "packed_length_cm": 30.55,
+      "packed_diameter_cm": 12.7,
+      "price_usd": 849,
+      "price_eur": null,
+      "in_stock": null
+    },
+    {
+      "variant_name": "Spruce Green w/ Standard Floor",
+      "variant_slug": "pivot-duo-tent-spruce-green-standard-floor",
+      "pole_option": "2 trekking poles adjusted to 52 inches (132 cm) plus 1 included 32 inch (81 cm) tent pole",
+      "floor_option": "Standard floor (1 oz/sqyd DCF)",
+      "inner_option": null,
+      "color": "Spruce Green",
+      "weight_tent_g": 660,
+      "weight_fly_g": null,
+      "weight_inner_g": null,
+      "weight_poles_g": 28,
+      "weight_stakes_g": null,
+      "weight_stuff_sack_g": 9,
+      "weight_typical_g": 660,
+      "weight_typical_notes": "Displayed total tent weight including guy lines, sewn in linelocs, taped seams, and the included 32 inch tent pole.",
+      "packed_length_cm": 30.55,
+      "packed_diameter_cm": 12.7,
+      "price_usd": 849,
+      "price_eur": null,
+      "in_stock": null
+    }
+  ],
+  "specs_extra": [
+    {
+      "key": "lead_time",
+      "value": "Expedition en 1-3 jours ouvrables",
+      "unit": null,
+      "label": "Delai d'expedition",
+      "category": "identification"
+    },
+    {
+      "key": "displayed_tent_weight_g",
+      "value": "550",
+      "unit": "g",
+      "label": "Poids total affiche de la tente",
+      "category": "poids"
+    },
+    {
+      "key": "displayed_weight_scope",
+      "value": "Le poids total affiche inclut les guy lines, les LineLocs cousus et les coutures scellees.",
+      "unit": null,
+      "label": "Perimetre du poids affiche",
+      "category": "poids"
+    },
+    {
+      "key": "stuff_sack_weight_g",
+      "value": "9",
+      "unit": "g",
+      "label": "Poids du Medium-Plus DCF Stuff Sack",
+      "category": "poids"
+    },
+    {
+      "key": "repair_tape_weight_g",
+      "value": "4",
+      "unit": "g",
+      "label": "Poids du ruban de reparation DCF 54 pouces",
+      "category": "poids"
+    },
+    {
+      "key": "spare_zipper_sliders_weight_g",
+      "value": "4.5",
+      "unit": "g",
+      "label": "Poids des deux curseurs de zip de rechange",
+      "category": "poids"
+    },
+    {
+      "key": "included_32_in_pole_weight_g",
+      "value": "28",
+      "unit": "g",
+      "label": "Poids du mat de tente 32 pouces inclus",
+      "category": "poids"
+    },
+    {
+      "key": "included_accessories_total_weight_g",
+      "value": "45.5",
+      "unit": "g",
+      "label": "Poids total des accessoires inclus",
+      "category": "poids"
+    },
+    {
+      "key": "weight_variation_note",
+      "value": "Le choix du tissu de canopy et du sol affecte le poids affiche. 8 piquets sont requis mais non inclus. Un troisieme baton de randonnee peut remplacer le mat de 32 pouces pour economiser du poids.",
+      "unit": null,
+      "label": "Variation de poids selon tissu",
+      "category": "poids"
+    },
+    {
+      "key": "end_beak_height_cm",
+      "value": "81",
+      "unit": "cm",
+      "label": "Hauteur du pic d'extremite",
+      "category": "dimensions"
+    },
+    {
+      "key": "canopy_clearance_cm",
+      "value": "10",
+      "unit": "cm",
+      "label": "Hauteur du canopy au-dessus du sol",
+      "category": "dimensions"
+    },
+    {
+      "key": "width_including_vestibules_cm",
+      "value": "249",
+      "unit": "cm",
+      "label": "Largeur avec auvents",
+      "category": "dimensions"
+    },
+    {
+      "key": "vestibule_depth_note",
+      "value": "24 pouces / 61 cm de profondeur, environ 8 sq ft",
+      "unit": null,
+      "label": "Profondeur et surface des auvents",
+      "category": "dimensions"
+    },
+    {
+      "key": "zipper_entry_height_cm",
+      "value": "102",
+      "unit": "cm",
+      "label": "Hauteur d'entree par fermeture eclair",
+      "category": "dimensions"
+    },
+    {
+      "key": "packed_size_rolled_tight_cm",
+      "value": "12.7 x 30.55",
+      "unit": "cm",
+      "label": "Dimensions roulee serree",
+      "category": "dimensions"
+    },
+    {
+      "key": "packed_volume_rolled_tight_l",
+      "value": "3.9",
+      "unit": "L",
+      "label": "Volume roulee serree",
+      "category": "dimensions"
+    },
+    {
+      "key": "packed_volume_rolled_tight_cuin",
+      "value": "236",
+      "unit": "cu in",
+      "label": "Volume roulee serree",
+      "category": "dimensions"
+    },
+    {
+      "key": "stuff_sack_size_cm",
+      "value": "18 x 33",
+      "unit": "cm",
+      "label": "Dimensions du stuff sack inclus",
+      "category": "dimensions"
+    },
+    {
+      "key": "packed_size_loose_note",
+      "value": "Roulee de facon decontractee, la tente prend environ 2.5 cm de plus en diametre et en longueur.",
+      "unit": null,
+      "label": "Note sur la taille pliee",
+      "category": "dimensions"
+    },
+    {
+      "key": "stuff_sack_note",
+      "value": "Le stuff sack est intentionnellement grand pour eviter de lutter le matin. Les options de tissus plus lourds se roulent legerement plus gros.",
+      "unit": null,
+      "label": "Note sur le sac de rangement",
+      "category": "dimensions"
+    },
+    {
+      "key": "fabric_options",
+      "value": "Lite : canopy 0.55 oz/sqyd DCF et sol 0.75 oz/sqyd DCF ; Standard : canopy 0.75 oz/sqyd DCF et sol 1.0 oz/sqyd DCF.",
+      "unit": null,
+      "label": "Options de tissus",
+      "category": "materiaux"
+    },
+    {
+      "key": "fabric_main",
+      "value": "Dyneema(R) Composite Fabric (DCF)",
+      "unit": null,
+      "label": "Tissu principal",
+      "category": "materiaux"
+    },
+    {
+      "key": "pfas_note",
+      "value": "Sans PFCs, PFAS, DWR ni retardateurs de flamme.",
+      "unit": null,
+      "label": "Substances et traitements absents",
+      "category": "materiaux"
+    },
+    {
+      "key": "bio_based_fiber",
+      "value": "Bio-Based Dyneema(R) Fiber provenant de matieres premieres renouvelables",
+      "unit": null,
+      "label": "Dyneema biosource",
+      "category": "materiaux"
+    },
+    {
+      "key": "mesh_material",
+      "value": "0.67 oz/sqyd ultralight insect netting",
+      "unit": null,
+      "label": "Moustiquaire",
+      "category": "materiaux"
+    },
+    {
+      "key": "zipper_spec",
+      "value": "YKK #3",
+      "unit": null,
+      "label": "Fermetures eclair",
+      "category": "materiaux"
+    },
+    {
+      "key": "guyline_spec",
+      "value": "Z-Line 1.6 mm jaune vif",
+      "unit": null,
+      "label": "Haubans",
+      "category": "materiaux"
+    },
+    {
+      "key": "symmetrical_sleep_note",
+      "value": "Le sol symetrique et les portes en miroir permettent de dormir dans n'importe quel sens selon le vent et la pente du terrain.",
+      "unit": null,
+      "label": "Benefice du plan symetrique",
+      "category": "usage"
+    },
+    {
+      "key": "storage_note",
+      "value": "Chaussures et sac a dos peuvent etre ranges dans l'un des auvents ou le sac peut etre maintenu debout dans l'interieur spacieux.",
+      "unit": null,
+      "label": "Rangement du materiel",
+      "category": "usage"
+    },
+    {
+      "key": "steep_wall_note",
+      "value": "Les deux batons decales de 52 pouces combines a un mat de 32 pouces a l'extremite creent des parois abruptes offrant beaucoup d'espace pour la tete et les pieds.",
+      "unit": null,
+      "label": "Benefice des parois abruptes",
+      "category": "usage"
+    },
+    {
+      "key": "fit_note",
+      "value": "L'espace convient confortablement a une paire de randonneurs jusqu'a environ 1.95 m.",
+      "unit": null,
+      "label": "Gabarit utilisateur",
+      "category": "usage"
+    },
+    {
+      "key": "tall_user_note",
+      "value": "Les grands gabarits en solo peuvent dormir en diagonale ou ajouter un trekking pole cup et un mat supplementaire de 32 pouces a l'autre extremite pour augmenter l'espace.",
+      "unit": null,
+      "label": "Conseil pour grands gabarits",
+      "category": "usage"
+    },
+    {
+      "key": "compact_footprint_note",
+      "value": "L'empreinte au sol compacte est mise en avant pour trouver plus facilement des emplacements plats difficiles.",
+      "unit": null,
+      "label": "Avantage de l'empreinte compacte",
+      "category": "usage"
+    },
+    {
+      "key": "groundsheet_note",
+      "value": "Le sol est annonce assez durable pour ne pas exiger de tapis de sol separe ; des Flat Groundsheets restent disponibles en option.",
+      "unit": null,
+      "label": "Besoin de tapis de sol",
+      "category": "usage"
+    },
+    {
+      "key": "pocket_note",
+      "value": "Des poches mesh servent a ranger lampe frontale, lunettes, telephone ou stuff sack de la tente.",
+      "unit": null,
+      "label": "Poches interieures",
+      "category": "usage"
+    },
+    {
+      "key": "apex_loops_note",
+      "value": "De petites boucles a chaque sommet permettent de suspendre une lampe, installer une corde a linge ou attacher un Gear Nest.",
+      "unit": null,
+      "label": "Boucles aux sommets",
+      "category": "usage"
+    },
+    {
+      "key": "opacity_note",
+      "value": "Le tissu est semi-transparent ; les tissus plus epais offrent plus d'opacite.",
+      "unit": null,
+      "label": "Opacite du tissu",
+      "category": "usage"
+    },
+    {
+      "key": "expected_lifespan",
+      "value": "Au moins une thru-hike complete de 2500+ miles, ou plusieurs annees d'utilisation occasionnelle avec un peu d'entretien.",
+      "unit": null,
+      "label": "Duree de vie attendue",
+      "category": "usage"
+    },
+    {
+      "key": "manufacturing_note",
+      "value": "Concu et assemble aux USA a partir de composants domestiques et importes.",
+      "unit": null,
+      "label": "Lieu de conception et assemblage",
+      "category": "usage"
+    },
+    {
+      "key": "peak_d_ring_guyline_length_cm",
+      "value": "122",
+      "unit": "cm",
+      "label": "Longueur des haubans de pic sur D-ring",
+      "category": "montage"
+    },
+    {
+      "key": "peak_small_door_guyline_length_cm",
+      "value": "132",
+      "unit": "cm",
+      "label": "Longueur des haubans de pic sur petite porte",
+      "category": "montage"
+    },
+    {
+      "key": "peak_small_door_stake_loop_position_cm",
+      "value": "45.75",
+      "unit": "cm",
+      "label": "Position de la boucle de piquet sur le hauban de petite porte",
+      "category": "montage"
+    },
+    {
+      "key": "tent_end_guyline_length_cm",
+      "value": "122",
+      "unit": "cm",
+      "label": "Longueur des haubans d'extremite",
+      "category": "montage"
+    },
+    {
+      "key": "corner_guyline_length_cm",
+      "value": "61",
+      "unit": "cm",
+      "label": "Longueur des haubans d'angle",
+      "category": "montage"
+    },
+    {
+      "key": "orientation_note",
+      "value": "Presenter les petites portes face au vent pour pouvoir laisser les grandes portes ouvertes sous le vent si desire. L'extremite au vent est marquee par une etiquette Zpacks au centre.",
+      "unit": null,
+      "label": "Orientation face au vent",
+      "category": "montage"
+    },
+    {
+      "key": "splash_up_note",
+      "value": "Le splash-up peut se produire sur surfaces compactes en forte pluie ; privilegier des emplacements sur feuilles ou aiguilles de pin et retirer les brindilles pointues tout en gardant un maximum de coussin naturel.",
+      "unit": null,
+      "label": "Note sur le splash-up",
+      "category": "montage"
+    },
+    {
+      "key": "setup_summary",
+      "value": "Regler deux batons a 132 cm, utiliser le mat inclus de 81 cm ou un troisieme baton, etaler la tente, piquer les coins a 45 degres avec du mou, inserer puis piquer le premier baton de 52 pouces, ajuster la hauteur, repeter de l'autre cote, soulever ensuite l'extremite de 32 pouces et l'ancrer sur le meme piquet partage avec la ligne basse centrale, puis finir par les lignes restantes et les retensions.",
+      "unit": null,
+      "label": "Resume du montage",
+      "category": "montage"
+    },
+    {
+      "key": "setup_corner_clearance_cm",
+      "value": "10",
+      "unit": "cm",
+      "label": "Hauteur recommandee des coins au-dessus du sol",
+      "category": "montage"
+    },
+    {
+      "key": "shared_stake_note",
+      "value": "Les deux guy-lines du pic de 32 pouces et du centre bas de la paroi partagent un seul piquet.",
+      "unit": null,
+      "label": "Piquet partage a l'extremite",
+      "category": "montage"
+    },
+    {
+      "key": "storm_door_note",
+      "value": "Les grandes portes peuvent etre fermees par fermeture eclair ou enroulees et maintenues ouvertes avec les attaches magnetiques integrees. Laisser les portes sous le vent ouvertes quand possible aide a minimiser la condensation.",
+      "unit": null,
+      "label": "Utilisation des portes anti-tempete",
+      "category": "montage"
+    },
+    {
+      "key": "included_items",
+      "value": "Medium-Plus DCF Stuff Sack, ruban de reparation DCF 54 pouces, deux curseurs de fermeture eclair de rechange, mat de tente 32 pouces avec protective sling",
+      "unit": null,
+      "label": "Accessoires inclus",
+      "category": "accessoires"
+    },
+    {
+      "key": "optional_accessories",
+      "value": "Ultralight Stakes, troisieme baton de randonnee, Flat Groundsheets, Gear Nest, Trekking pole cup avec mat 32 pouces supplementaire.",
+      "unit": null,
+      "label": "Options et accessoires complementaires",
+      "category": "accessoires"
+    },
+    {
+      "key": "washing_instructions_note",
+      "value": "Un lien vers les instructions de lavage est disponible sur le site.",
+      "unit": null,
+      "label": "Instructions de lavage",
+      "category": "entretien"
+    },
+    {
+      "key": "seam_sealing_note",
+      "value": "Toutes les coutures sont scellees et les points d'ancrage sont colles ; aucune etancheification supplementaire n'est necessaire.",
+      "unit": null,
+      "label": "Etancheification des coutures",
+      "category": "entretien"
+    },
+    {
+      "key": "zipper_replacement_note",
+      "value": "Des informations sur le remplacement des curseurs sont disponibles sur le site.",
+      "unit": null,
+      "label": "Remplacement des curseurs",
+      "category": "entretien"
+    },
+    {
+      "key": "wind_rating_note",
+      "value": "Aucune information de resistance au vent specifique n'est indiquee dans les donnees fournies.",
+      "unit": null,
+      "label": "Information vent",
+      "category": "identification"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "extraction_meta": {
+    "source_url": "https://cumulus.equipment/fr/eu/c/sacs-de-couchage-en-duvet",
+    "extracted_at": "2026-05-17",
+    "extractor": "codex",
+    "source_type": "user_requested_multi_source"
+  },
+  "brand": {
+    "name": "Cumulus",
+    "slug": "cumulus",
+    "country": "Poland",
+    "website_url": "https://cumulus.equipment"
+  },
+  "sleeping_bag": {
+    "name": "X-LITE 400",
+    "slug": "x-lite-400",
+    "series": "X-Lite",
+    "product_type": "down sleeping bag",
+    "subtitle": "extremely light 2-3 season down sleeping bag",
+    "season_positioning": "2-3 season",
+    "shape": "close fit mummy shape",
+    "description": "X-Lite is positioned as an extremely light 2-3 season sleeping bag built around aggressive weight reduction without sacrificing functional comfort. Cumulus highlights the combination of ultralight Toray Airtastic fabric, a light 3 mm 2/3 YKK zip, a slim cut, a shark-fin footbox and a 3D hood, paired with ethically sourced 900 FP Polish goose down.",
+    "key_features": "- 575 g total weight\n- 400 g of 900 FP ethically sourced Polish goose down\n- Comfort -1 C / limit -7 C / extreme -24 C\n- Toray Airtastic 19 g/m2 shell and liner\n- 7D ripstop, DWR finish, 100% nylon\n- 3 mm YKK 2/3 zip with 2 self-locking sliders\n- 3D hood\n- Anatomical shark-fin footbox\n- Trapezoid chamber design\n- Differential cut\n- Stuffsack and storage sack included\n- Customizable via configurator",
+    "manufacturer_claims": "Cumulus presents the X-Lite series as the lightest sleeping bags in the world by weight-to-warmth ratio. The design is intentionally minimalist and free from unnecessary components that would add weight, while remaining comfortable and highly compressible.",
+    "ideal_for": "Fast-and-light use, users prioritizing low pack weight and compactness, trail running, ultramarathons, bikepacking, sport rock climbing.",
+    "comparison_notes": "Official locale and page context show different current prices and lead times. The configurator default price is lower than the observed EU product/category price.",
+    "care_instructions": null,
+    "repair_notes": null,
+    "faq_important": null,
+    "compatible_accessories": null,
+    "warranty_notes": "Lifetime Experience warranty name shown on product and category pages. General Cumulus warranty page adds that defects in craftsmanship/materials are covered when used as intended, with paid repair available for non-warranty cases.",
+    "temperature_comfort_c": -1,
+    "temperature_limit_c": -7,
+    "temperature_extreme_c": -24,
+    "weight_g": 575,
+    "down_weight_g": 400,
+    "unfilled_weight_g": 175,
+    "fill_power_fp": 900,
+    "fill_material": "ethically sourced Polish goose down",
+    "fill_origin": "Poland",
+    "ethically_sourced": true,
+    "fill_distribution": "separately filled front and bottom",
+    "fill_proportions_default": "55/45 - FRONT/BACK",
+    "shell_fabric": "Toray Airtastic 19 g/m2",
+    "shell_fabric_color_default": "Butternut",
+    "liner_fabric": "Toray Airtastic 19 g/m2",
+    "liner_fabric_color_default": "Butternut",
+    "fabric_denier": "7D",
+    "fabric_structure": "ripstop",
+    "fabric_finish": "DWR finish",
+    "fabric_composition": "100% nylon",
+    "zipper_brand": "YKK",
+    "zipper_spec": "3 mm 2/3 length with 2 self-locking sliders",
+    "zipper_side_options": "right|left",
+    "hood_type": "3D hood",
+    "footbox_type": "anatomical shark-fin footbox",
+    "chamber_construction": "trapezoid chamber design",
+    "chamber_count": 33,
+    "differential_cut": true,
+    "maximum_user_height_cm": 185,
+    "length_cm": 202,
+    "width_top_cm": 77,
+    "width_bottom_cm": 42,
+    "stuffsack_height_cm": 25,
+    "stuffsack_diameter_cm": 16,
+    "stuffsack_volume_l": 5,
+    "made_in": "Poland",
+    "warranty_name": "Lifetime Experience",
+    "lead_time_product": "4-7 business days",
+    "lead_time_configurator": "3-5 weeks",
+    "price_eur": 499,
+    "price_eur_alt": 405,
+    "price_pln": 1999,
+    "product_url": "https://cumulus.equipment/de/eu/p/schlafsack-daune-x-lite-400",
+    "category_url": "https://cumulus.equipment/fr/eu/c/sacs-de-couchage-en-duvet",
+    "configurator_url": "https://cumulus.equipment/fr/gr/configurator/sacs-de-couchage-en-duvet-x-lite-400-custom",
+    "current_status": "current model listed on official product page, category page, and configurator"
+  },
+  "specs_extra": [
+    {
+      "key": "configurator_default_outer_fabric",
+      "value": "Toray Airtastic 19g Butternut",
+      "unit": null,
+      "label": "Tissu externe configurateur",
+      "category": "customization"
+    },
+    {
+      "key": "configurator_default_inner_fabric",
+      "value": "Toray Airtastic 19g Butternut",
+      "unit": null,
+      "label": "Tissu interne configurateur",
+      "category": "customization"
+    },
+    {
+      "key": "configurator_default_length",
+      "value": "M",
+      "unit": null,
+      "label": "Longueur configurateur",
+      "category": "customization"
+    },
+    {
+      "key": "configurator_default_width",
+      "value": "Standard",
+      "unit": null,
+      "label": "Largeur configurateur",
+      "category": "customization"
+    },
+    {
+      "key": "configurator_default_zipper_side",
+      "value": "left",
+      "unit": null,
+      "label": "Cote du zip configurateur",
+      "category": "customization"
+    },
+    {
+      "key": "configurator_visible_text_unmapped",
+      "value": "Quantum pro",
+      "unit": null,
+      "label": "Texte visible non mappe",
+      "category": "customization"
+    },
+    {
+      "key": "activities",
+      "value": "trail running|ultramarathons|bikepacking|sport rock climbing",
+      "unit": null,
+      "label": "Activites explicitement citees",
+      "category": "usage"
+    },
+    {
+      "key": "source_notes",
+      "value": "Observed current prices and lead times differ by locale and page context. Extreme temperature, unfilled weight, stuffsack dimensions/volume, and chamber count were visible in official product-page search extraction rather than the short opened page capture.",
+      "unit": null,
+      "label": "Notes sources",
+      "category": "source"
+    }
+  ]
+}

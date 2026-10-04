@@ -1,0 +1,454 @@
+{
+  "extraction_meta": {
+    "source_url": "https://zpacks.com/products/duplex-lite",
+    "extracted_at": "2026-05-17",
+    "extractor": "codex",
+    "source_type": "user_provided"
+  },
+  "brand": {
+    "name": "Zpacks",
+    "slug": "zpacks",
+    "country": "USA",
+    "website_url": "https://zpacks.com"
+  },
+  "tent": {
+    "name": "Duplex Lite Tent",
+    "slug": "duplex-lite-tent",
+    "tagline": "Tente deux places ultralégère Zpacks pensée pour couper chaque gramme sans sacrifier l'encombrement utile.",
+    "description": "La Duplex Lite Tent est une tente deux places ultralégère en Dyneema(R) Composite Fabric destinée aux randonneurs longue distance obsédés par le poids. Avec un poids annoncé inférieur a 15 oz pour la configuration la plus legere, elle reprend l'esprit de la Duplex Classic avec une empreinte au sol reduite et un sol monobloc sans couture afin d'eliminer chaque gramme superflu. Elle convient a un petit couple sur matelas de largeur standard, ou a un randonneur solo voulant un espace interieur genereux pour dormir et stocker son materiel.",
+    "key_features": "- Construction en Dyneema(R) Composite Fabric impermeable, durable et sans PFAS\n- Deux portes moustiquaire et quatre portes anti-tempete ouvrables independamment\n- Montage avec deux batons de randonnee de 48 pouces (122 cm) ou mats equivalents\n- 8 sardines requises, non incluses\n- Sol monobloc sans couture et empreinte reduite pour minimiser le poids et faciliter l'installation sur petits emplacements\n- Version Lite avec canopy en DCF 0.55 oz/sqyd et sol en DCF 0.75 oz/sqyd\n- Version Standard avec canopy en DCF 0.75 oz/sqyd et sol en DCF 1.0 oz/sqyd\n- Moustiquaire integrale ultralegere 0.67 oz/sqyd et fermetures eclair YKK #3\n- Haubans Z-Line 1.6 mm jaunes et regleurs LineLoc V pour un ajustement fin\n- Coutures scellees et points d'ancrage colles, sans seam sealing a faire\n- Ruban de reparation DCF et deux curseurs de zip de rechange inclus\n- Concue et assemblee aux USA a partir de composants domestiques et importes",
+    "manufacturer_claims": "Zpacks presente la Duplex Lite comme la tente deux places entierement fermee la plus legere au monde. La marque met aussi en avant un abri bien ventile, compact, spacieux pour le poids, sans PFC, PFAS, DWR ni retardateurs de flamme, avec une duree de vie attendue d'au moins une thru-hike complete de 2500+ miles ou plusieurs annees d'usage occasionnel avec un minimum de soin.",
+    "ideal_for": "Petit couple ou randonneur solo ultraleger cherchant une tente non autoportante tres legere, avec vraie protection contre la pluie et les insectes, pour trekking longue distance et thru-hiking.",
+    "comparison_notes": "Par rapport a la Duplex Classic Tent, la Duplex Lite adopte une empreinte plus fine et un sol monobloc sans couture pour gagner encore du poids. Les variantes Lite privilegient le poids minimal, tandis que la variante Standard ajoute davantage d'opacite et de robustesse via des grammages DCF plus eleves.",
+    "care_instructions": null,
+    "repair_notes": "Un ruban de reparation DCF de 54 pouces et deux curseurs de zip de rechange sont inclus. Les coutures sont deja scellees et toute deterioration mineure du DCF peut etre reparee sur le terrain avec le ruban fourni.",
+    "faq_important": "Q : Combien de sardines faut-il ? R : 8, non incluses.\n\nQ : Les batons de randonnee sont-ils inclus ? R : Non.\n\nQ : La tente accepte-t-elle le Duplex Flex Kit ? R : Non, la Duplex Lite n'est pas compatible.\n\nQ : Faut-il etancheifier les coutures ? R : Non, elles sont deja scellees.\n\nQ : Y a-t-il des poches interieures ? R : Non, pour economiser le maximum de poids.",
+    "compatible_accessories": "Deux batons de randonnee de 48 pouces (122 cm) ou mats de tente equivalents, 8 sardines vendues separement, Flat Groundsheet optionnel, Trekking Pole Cups et batons de 32 pouces pour augmenter l'espace utile aux extremites, Stick-on Magnet Toggles en option.",
+    "warranty_notes": "Garantie limitee de deux ans contre les defauts de materiaux ou de fabrication.",
+    "capacity": 2,
+    "season_rating": null,
+    "structure_type": "non-freestanding",
+    "wall_type": "single",
+    "poles_required": "trekking",
+    "poles_included": false,
+    "geometry_name": null,
+    "geometry_patented": null,
+    "door_count": 2,
+    "vestibule_count": 2,
+    "vent_count": null,
+    "interior_pockets": 0,
+    "guy_lines_max": 8,
+    "stake_points_max": 8,
+    "floor_length_cm": 230,
+    "floor_width_cm": 102,
+    "floor_width_head_cm": null,
+    "floor_width_foot_cm": null,
+    "floor_area_sqm": 2.3,
+    "floor_bathtub_height_cm": 17,
+    "floor_height_adjustable": null,
+    "peak_height_inner_cm": 122,
+    "peak_height_fly_cm": 122,
+    "vestibule_area_sqm": null,
+    "vestibule_depth_cm": 61,
+    "fly_length_cm": 254,
+    "fly_width_cm": 224,
+    "fly_fabric": "Dyneema(R) Composite Fabric 0.55 oz/sqyd ou 0.75 oz/sqyd selon variante",
+    "fly_fabric_type": "DCF",
+    "fly_waterproofness_mm": null,
+    "fly_pfas_free": true,
+    "floor_fabric": "Dyneema(R) Composite Fabric 0.75 oz/sqyd ou 1.0 oz/sqyd selon variante",
+    "floor_fabric_type": "DCF",
+    "floor_waterproofness_mm": null,
+    "inner_fabric": "Moustiquaire ultralegere 0.67 oz/sqyd",
+    "inner_mesh": true,
+    "seam_construction": "taped",
+    "seam_waterproof": true,
+    "zipper_fly": null,
+    "zipper_inner": "Rainbow zippers YKK #3 sur chaque porte moustiquaire",
+    "magnetic_toggles": false,
+    "pole_diameter_mm": null,
+    "pole_sleeve_material": null,
+    "pole_splint_included": false,
+    "pole_jack_included": false,
+    "tie_out_count_perimeter": 6,
+    "tie_out_count_midpanel": 0,
+    "tie_out_count_apex": 2,
+    "ladder_locks": true,
+    "guyline_brand": "Z-Line 1.6 mm",
+    "fly_first_pitch": null,
+    "inner_first_pitch": null,
+    "freestanding_no_stakes": false,
+    "protected_doorways": true,
+    "full_coverage_fly": true,
+    "tensioned_floor": null,
+    "groundsheet_required": false,
+    "groundsheet_recommended": true,
+    "trekking_pole_support": true,
+    "vestibule_pole_support": false,
+    "reflective_elements": false,
+    "manufacture_country": "USA",
+    "stakes_included": 0,
+    "stakes_type": null,
+    "stuff_sack_included": true,
+    "repair_kit_included": true,
+    "carry_bag_included": true,
+    "price_usd": 699,
+    "price_eur": null,
+    "product_url": "https://zpacks.com/products/duplex-lite",
+    "warranty_years": 2
+  },
+  "variants": [
+    {
+      "variant_name": "Lite fabric - Blue",
+      "variant_slug": "duplex-lite-tent-lite-blue",
+      "pole_option": "2 batons de randonnee de 48 pouces (122 cm) ou mats equivalents",
+      "floor_option": "Sol 0.75 oz/sqyd DCF",
+      "inner_option": "Moustiquaire ultralegere 0.67 oz/sqyd",
+      "color": "Blue",
+      "weight_tent_g": 423,
+      "weight_fly_g": null,
+      "weight_inner_g": null,
+      "weight_poles_g": null,
+      "weight_stakes_g": null,
+      "weight_stuff_sack_g": 8,
+      "weight_typical_g": 423,
+      "weight_typical_notes": "Poids total de la tente affiche pour la configuration legere, incluant les guy lines, les LineLoc cousus et les coutures scellees : 14.9 oz / 423 g.",
+      "packed_length_cm": 28,
+      "packed_diameter_cm": 11.5,
+      "price_usd": 699,
+      "price_eur": null,
+      "in_stock": null
+    },
+    {
+      "variant_name": "Lite fabric - Olive Drab",
+      "variant_slug": "duplex-lite-tent-lite-olive-drab",
+      "pole_option": "2 batons de randonnee de 48 pouces (122 cm) ou mats equivalents",
+      "floor_option": "Sol 0.75 oz/sqyd DCF",
+      "inner_option": "Moustiquaire ultralegere 0.67 oz/sqyd",
+      "color": "Olive Drab",
+      "weight_tent_g": 423,
+      "weight_fly_g": null,
+      "weight_inner_g": null,
+      "weight_poles_g": null,
+      "weight_stakes_g": null,
+      "weight_stuff_sack_g": 8,
+      "weight_typical_g": 423,
+      "weight_typical_notes": "Poids total de la tente affiche pour la configuration legere, incluant les guy lines, les LineLoc cousus et les coutures scellees : 14.9 oz / 423 g.",
+      "packed_length_cm": 28,
+      "packed_diameter_cm": 11.5,
+      "price_usd": 699,
+      "price_eur": null,
+      "in_stock": null
+    },
+    {
+      "variant_name": "Standard fabric - Spruce Green",
+      "variant_slug": "duplex-lite-tent-standard-spruce-green",
+      "pole_option": "2 batons de randonnee de 48 pouces (122 cm) ou mats equivalents",
+      "floor_option": "Sol 1.0 oz/sqyd DCF",
+      "inner_option": "Moustiquaire ultralegere 0.67 oz/sqyd",
+      "color": "Spruce Green",
+      "weight_tent_g": 506,
+      "weight_fly_g": null,
+      "weight_inner_g": null,
+      "weight_poles_g": null,
+      "weight_stakes_g": null,
+      "weight_stuff_sack_g": 8,
+      "weight_typical_g": 506,
+      "weight_typical_notes": "Le visuel fourni montre la variante Spruce Green selectionnee avec un poids affiche de 17.8 oz / 506 g.",
+      "packed_length_cm": null,
+      "packed_diameter_cm": null,
+      "price_usd": 699,
+      "price_eur": null,
+      "in_stock": null
+    }
+  ],
+  "specs_extra": [
+    {
+      "key": "lead_time",
+      "value": "Expedition en 1-3 jours ouvrables",
+      "unit": null,
+      "label": "Delai d'expedition",
+      "category": "identification"
+    },
+    {
+      "key": "duplex_flex_kit_compatibility",
+      "value": "Non compatible avec le Duplex Flex Kit",
+      "unit": null,
+      "label": "Compatibilite Duplex Flex Kit",
+      "category": "identification"
+    },
+    {
+      "key": "product_weight_display_scope",
+      "value": "Le poids affiche inclut les guy lines, les LineLoc cousus et les coutures scellees.",
+      "unit": null,
+      "label": "Perimetre du poids affiche",
+      "category": "poids"
+    },
+    {
+      "key": "product_weight_displayed_g",
+      "value": "423",
+      "unit": "g",
+      "label": "Poids total affiche de la tente",
+      "category": "poids"
+    },
+    {
+      "key": "stuff_sack_weight_g",
+      "value": "8",
+      "unit": "g",
+      "label": "Poids du sac DCF medium",
+      "category": "poids"
+    },
+    {
+      "key": "repair_tape_weight_g",
+      "value": "4",
+      "unit": "g",
+      "label": "Poids du ruban de reparation DCF",
+      "category": "poids"
+    },
+    {
+      "key": "spare_zipper_sliders_weight_g",
+      "value": "4.5",
+      "unit": "g",
+      "label": "Poids des deux curseurs de rechange",
+      "category": "poids"
+    },
+    {
+      "key": "additional_items_total_weight_g",
+      "value": "16.5",
+      "unit": "g",
+      "label": "Poids total des accessoires inclus",
+      "category": "poids"
+    },
+    {
+      "key": "stake_requirement",
+      "value": "8 sardines requises, non incluses",
+      "unit": null,
+      "label": "Sardines requises",
+      "category": "poids"
+    },
+    {
+      "key": "ridgeline_width_cm",
+      "value": "117",
+      "unit": "cm",
+      "label": "Largeur au faite",
+      "category": "dimensions"
+    },
+    {
+      "key": "zipper_entry_height_cm",
+      "value": "91",
+      "unit": "cm",
+      "label": "Hauteur d'entree zippee",
+      "category": "dimensions"
+    },
+    {
+      "key": "packed_size_rolled_tight_cm",
+      "value": "11.5 x 28",
+      "unit": "cm",
+      "label": "Dimensions roulee serree",
+      "category": "dimensions"
+    },
+    {
+      "key": "packed_volume_rolled_tight_l",
+      "value": "2.9",
+      "unit": "L",
+      "label": "Volume roulee serree",
+      "category": "dimensions"
+    },
+    {
+      "key": "packed_volume_rolled_tight_cuin",
+      "value": "175",
+      "unit": "cu in",
+      "label": "Volume roulee serree",
+      "category": "dimensions"
+    },
+    {
+      "key": "stuff_sack_size_cm",
+      "value": "15 x 30.5",
+      "unit": "cm",
+      "label": "Dimensions du sac de rangement medium",
+      "category": "dimensions"
+    },
+    {
+      "key": "packed_size_loose_note",
+      "value": "Une tente roulee de facon decontractee prend environ 2.5 cm de plus en diametre et en longueur.",
+      "unit": null,
+      "label": "Note sur le volume plie",
+      "category": "dimensions"
+    },
+    {
+      "key": "floor_use_note",
+      "value": "Le sol durable ne necessite pas de tapis de sol separe ; des Flat Groundsheets sont disponibles en option.",
+      "unit": null,
+      "label": "Besoin de tapis de sol",
+      "category": "dimensions"
+    },
+    {
+      "key": "fabric_options",
+      "value": "Lite fabric : canopy 0.55 oz/sqyd DCF et sol 0.75 oz/sqyd DCF en Blue ou Olive Drab ; Standard fabric : canopy 0.75 oz/sqyd DCF et sol 1.0 oz/sqyd DCF en Spruce Green.",
+      "unit": null,
+      "label": "Options de tissu",
+      "category": "materiaux"
+    },
+    {
+      "key": "mesh_material",
+      "value": "0.67 oz/sqyd ultralight insect netting",
+      "unit": null,
+      "label": "Moustiquaire",
+      "category": "materiaux"
+    },
+    {
+      "key": "zipper_spec",
+      "value": "YKK #3",
+      "unit": null,
+      "label": "Fermetures eclair",
+      "category": "materiaux"
+    },
+    {
+      "key": "guyline_spec",
+      "value": "Z-Line 1.6 mm jaune vif",
+      "unit": null,
+      "label": "Haubans",
+      "category": "materiaux"
+    },
+    {
+      "key": "pfas_note",
+      "value": "Sans PFCs, PFAS, DWR ni retardateurs de flamme.",
+      "unit": null,
+      "label": "Substances et traitements absents",
+      "category": "materiaux"
+    },
+    {
+      "key": "bio_based_fiber",
+      "value": "Bio-Based Dyneema(R) Fiber issue de matieres premieres renouvelables",
+      "unit": null,
+      "label": "Dyneema biosource",
+      "category": "materiaux"
+    },
+    {
+      "key": "small_footprint_benefit",
+      "value": "Empreinte au sol reduite permettant de s'installer sur des emplacements plats difficiles a trouver.",
+      "unit": null,
+      "label": "Avantage de l'empreinte reduite",
+      "category": "usage"
+    },
+    {
+      "key": "floor_width_use_case",
+      "value": "40 pouces de largeur de sol, adaptes a un petit couple sur matelas standard ou tres spacieux pour un randonneur solo avec son materiel.",
+      "unit": null,
+      "label": "Usage de la largeur de sol",
+      "category": "usage"
+    },
+    {
+      "key": "storm_door_note",
+      "value": "Quatre portes anti-tempete peuvent etre ouvertes, fermees, attachees ou enroulees independamment selon la ventilation et la meteo.",
+      "unit": null,
+      "label": "Gestion des portes anti-tempete",
+      "category": "usage"
+    },
+    {
+      "key": "storm_door_zip_note",
+      "value": "Les portes anti-tempete ne comportent pas de fermeture eclair, ce qui elimine un point de panne potentiel.",
+      "unit": null,
+      "label": "Absence de zip sur portes anti-tempete",
+      "category": "usage"
+    },
+    {
+      "key": "mesh_drape_note",
+      "value": "La moustiquaire retombe vers l'interieur plutot que devant l'utilisateur, evitant d'avoir a l'enrouler.",
+      "unit": null,
+      "label": "Comportement de la porte moustiquaire",
+      "category": "usage"
+    },
+    {
+      "key": "canopy_clearance_cm",
+      "value": "12",
+      "unit": "cm",
+      "label": "Depassement du canopy au-dessus du sol baignoire",
+      "category": "usage"
+    },
+    {
+      "key": "tall_user_note",
+      "value": "Les randonneurs plus grands en solo peuvent dormir en diagonale ou utiliser des Trekking Pole Cups et des batons de 32 pouces aux extremites pour gagner en hauteur utile.",
+      "unit": null,
+      "label": "Conseil pour grands gabarits",
+      "category": "usage"
+    },
+    {
+      "key": "opacity_note",
+      "value": "Le tissu est semi-transparent ; les versions en tissu plus lourd offrent davantage d'opacite.",
+      "unit": null,
+      "label": "Opacite du tissu",
+      "category": "usage"
+    },
+    {
+      "key": "expected_lifespan",
+      "value": "Au moins une thru-hike complete de 2500+ miles ou plusieurs annees d'utilisation occasionnelle avec un peu d'entretien.",
+      "unit": null,
+      "label": "Duree de vie attendue",
+      "category": "usage"
+    },
+    {
+      "key": "guyline_peak_length_cm",
+      "value": "203",
+      "unit": "cm",
+      "label": "Longueur des haubans de pic",
+      "category": "montage"
+    },
+    {
+      "key": "guyline_peak_loop_position_cm",
+      "value": "46",
+      "unit": "cm",
+      "label": "Position de la boucle de piquet sur les haubans de pic",
+      "category": "montage"
+    },
+    {
+      "key": "guyline_side_length_cm",
+      "value": "122",
+      "unit": "cm",
+      "label": "Longueur des haubans lateraux",
+      "category": "montage"
+    },
+    {
+      "key": "guyline_corner_length_cm",
+      "value": "61",
+      "unit": "cm",
+      "label": "Longueur des haubans d'angle",
+      "category": "montage"
+    },
+    {
+      "key": "setup_summary",
+      "value": "Regler deux batons a environ 122 cm, laisser du mou aux lignes d'angle, planter les quatre coins a 45 degres, inserer puis planter le baton avant, ajuster la hauteur, inserer puis planter le baton arriere, retendre si necessaire et finir par les deux ancrages lateraux.",
+      "unit": null,
+      "label": "Resume du montage",
+      "category": "montage"
+    },
+    {
+      "key": "setup_corner_clearance_cm",
+      "value": "15",
+      "unit": "cm",
+      "label": "Hauteur recommandee des coins au-dessus du sol",
+      "category": "montage"
+    },
+    {
+      "key": "wind_orientation",
+      "value": "Par vent fort, orienter l'extremite avec les portes anti-tempete qui se chevauchent face au vent. L'etiquette Zpacks sur l'ourlet indique l'extremite au vent.",
+      "unit": null,
+      "label": "Orientation par vent fort",
+      "category": "montage"
+    },
+    {
+      "key": "splash_up_note",
+      "value": "Le splash-up peut se produire sur sol compact en forte pluie ; privilegier des emplacements sur feuilles ou aiguilles de pin et laisser un maximum de coussin naturel pour le limiter.",
+      "unit": null,
+      "label": "Note sur le splash-up",
+      "category": "montage"
+    },
+    {
+      "key": "included_items",
+      "value": "Medium DCF Stuff Sack, bande de reparation DCF de 54 pouces, deux curseurs de zip de rechange",
+      "unit": null,
+      "label": "Accessoires inclus",
+      "category": "accessoires"
+    }
+  ]
+}
