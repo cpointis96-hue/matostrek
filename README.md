@@ -47,4 +47,4 @@ Les contrôles réellement effectués pour cette copie sont consignés dans [VER
 
 ## Dépôt et téléchargement
 
-La copie publique est préparée localement. Sa publication GitHub attend la levée de la limite temporaire de création de dépôts. Un lien vers le dépôt et son ZIP de sources sera ajouté après vérification de leur disponibilité ; aucun binaire ni design Claude original complet n’est inclus.
+[Dépôt public](https://github.com/cpointis96-hue/matostrek) · [Télécharger les sources ZIP](https://github.com/cpointis96-hue/matostrek/archive/HEAD.zip). Aucun binaire ni design Claude original complet n’est inclus.
